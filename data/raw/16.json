@@ -1,0 +1,104 @@
+{
+    "article": "Archaeologists distinguish the \u201ccultural\u201d formation processes of the archaeological record (those involving some kind of human activity) from the \u201cnatural\u201d formation processes (those involving nonhuman activity, such as river action disturbing archaeological material). There are two kinds of cultural formation processes: those that reflect the original human behavior and activity before a find or site became buried, and those (such as looting) that came after burial. Of course, most major archaeological sites are formed as the result of a complex sequence of use, burial, and reuse so that a simple twofold division of cultural formation processes may not be so simple to apply in practice, but the distinction is still useful.\nOriginal human behavior is often reflected archaeologically in at least four major activities. In the case of a tool, for example, there may be (1) acquisition of the raw material, (2) manufacture, (3) use, and (4) disposal or discard when the tool is worn out or broken. (The tool may of course be reworked and recycled, thus repeating stages 2 and 3.) Similarly, a food crop such as wheat will be acquired (harvested), manufactured (processed), used (eaten), and discarded (digested and the waste products excreted), although here one might add a common intermediate stage of storage before use. From the archaeologist's point of view, the critical factor is that remains can enter the archaeological record at any one of these stages. A tool may be lost or thrown out for being of inferior quality during manufacture, or a crop may be accidentally burnt and thus preserved during processing. In order to reconstruct the original activity accurately it is therefore crucial to try to understand which of the stages one is looking at. It may be quite easy to identify the first stage for stone tools, for instance, because stone quarries can often be recognized by deep holes in the ground with piles of associated waste flakes that survive well. But it is much more difficult to know beyond reasonable doubt where a sample of charred plant remains comes from, whether from an area where harvested wheat was taken for threshing or from the area where the grain was eaten. This may also make it difficult to reconstruct the true plant diet, since certain activities may favor the preservation of certain species of plant.\nDeliberate burial of valuables or the dead is another human behavior that has left its mark on the archaeological record. In times of conflict or war, people often deposit prized possessions in the ground, intending to reclaim them at a later date; but sometimes, for one reason or another, they fail to do so. These hoards are a prime source of evidence for certain periods, such as the European Bronze Age, for which hoards of metal goods are common, or later Roman Britain, which has yielded buried treasures of silver and other precious metals. The archaeologist, however, may not find it easy to distinguish between hoards originally intended to be reclaimed and valuables buried\u2014perhaps as offerings to supernatural powers\u2014with no reclamation intended.\nIn addition to burial hoards, a major source of archaeological evidence comes from burial of the dead, whether in simple graves, elaborate burial mounds, or giant pyramids, usually with grave goods such as ceramic vessels or weapons, and sometimes with painted tomb-chamber walls, as in ancient Mexico or Egypt. The Egyptians indeed went so far as to mummify their dead\u2014to preserve them, they hoped, for eternity\u2014as did the Incas of Peru, whose kings were kept in the Temple of the Sun at Cuzco and brought outside for special ceremonies.\nHuman destruction of the archaeological record might be caused by burials of the kind just described being dug into earlier deposits. But people in the past deliberately or accidentally obliterated traces of their predecessors in innumerable other ways. Rulers often destroyed monuments or erased inscriptions belonging to previous chiefs or monarchs.  [\u25a0]On the other hand, some human destruction meant to obliterate has inadvertently preserved material for the archaeologist to find.  [\u25a0]Burning, for example, may not always destroy.  [\u25a0]Clay daubing and adobe usually decay, but if a structure has been burned, the mud is baked to the consistency of a brick. [\u25a0]\n ",
+    "questions": [
+        [
+            "Paragraph 1 supports which of the following about the two types of cultural formation processes?",
+            [
+                "An understanding of the twofold division of cultural formation processes has no practical significance.",
+                "Many finds at major archaeological sites reflect both types of cultural formation processes.",
+                "The two types of cultural formation processes can be most clearly distinguished from each other at major archaeological sites.",
+                "Cultural formation processes that took place before a find became buried are usually less complex than cultural formation processes that occurred after it was buried."
+            ],
+            1
+        ],
+        [
+            "The word \u201cdistinction\u201d in the passage is closest in meaning to",
+            [
+                "differentiation",
+                "importance",
+                "decision",
+                "conflict"
+            ],
+            0
+        ],
+        [
+            "The author indicates that \u201cA tool may be lost or thrown out for being of inferior quality during manufacture, or a crop may be accidentally burnt and thus preserved during processing\u201d in order to",
+            [
+                "show that the stages typically found in tool making are also found in food production",
+                "explain the differences between the four major stages typical of human behavior",
+                "illustrate the point that remains can enter the archaeological record at any stage",
+                "provide examples of human activity rarely found in archaeological sites"
+            ],
+            2
+        ],
+        [
+            "According to paragraph 2, archaeologists trying to reconstruct human activity in a given area find that",
+            [
+                "many areas used as sources of raw materials for tools seem to have been later used for food production",
+                "areas used to obtain raw materials for tools can be easier to identify than areas used for food production or occupation",
+                "there is usually more waste associated with food production than with tool manufacturing",
+                "it is generally easier to reconstruct people\u2019s plant diets than diets of animal sources"
+            ],
+            1
+        ],
+        [
+            "According to paragraph 3, a common problem for archaeologists dealing with hoards is",
+            [
+                "estimating the age of buried metals",
+                "understanding why certain metals like silver are commonly found in hoards",
+                "understanding how the use of hoards as offerings to supernatural powers spread outside Europe",
+                "identifying the reason that the valuables were buried"
+            ],
+            3
+        ],
+        [
+            "According to paragraph 4, the archaeological record shows that people buried their dead in each of the following EXCEPT",
+            [
+                "burial mounds",
+                "simple graves",
+                "ceramic containers",
+                "large pyramids"
+            ],
+            2
+        ],
+        [
+            "According to paragraph 4, the ancient Egyptians and the Incas of Peru were alike in that they both",
+            [
+                "frequently changed the location of their kings' burial sites",
+                "left little evidence of grave goods being used in burial sites",
+                "preserved their dead",
+                "held special ceremonies at the graves of their kings"
+            ],
+            2
+        ],
+        [
+            "The word \u201cinadvertently\u201d in the passage is closest in meaning to",
+            [
+                "instead",
+                "accidentally",
+                "fortunately",
+                "permanently"
+            ],
+            1
+        ],
+        [
+            "Thousands of clay writing tablets from the Near East have been preserved by being baked in this way..",
+            3
+        ],
+        [
+            [
+                "The remains of tools and food crops may have entered the archaeological record through any one of several human activities.",
+                "The different stages of an original cultural activity can be distinguished by the kinds of tools that are found.",
+                "People in the past deliberately or accidentally destroyed parts of the archaeological record left by their predecessors.",
+                "The natural formation processes of the archaeological record were often affected by human behavior.",
+                "The deliberate burial of valuables and failure to reclaim them provide an important source of archaeological evidence.",
+                "Rulers and monarchs often used burning in order to destroy the clay and adobe structures of previous leaders."
+            ],
+            [
+                0,
+                2,
+                4
+            ]
+        ]
+    ]
+}

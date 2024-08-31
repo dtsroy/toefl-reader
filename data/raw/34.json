@@ -1,0 +1,104 @@
+{
+    "article": "In the 1920s, Aleksandr Oparin, a Russian biochemist, proposed and developed the idea that life originated in the warm, watery environment of early Earth's surface, under an atmosphere mostly composed of methane.  [\u25a0]The early seas were believed by Oparin to be rich in simple organic molecules, which reacted to form more complex molecules, eventually leading to proteins and life.  [\u25a0]Then, almost 30 years after Oparin published his ideas, Stanley Miller demonstrated that amino acids, the building blocks of the proteins necessary for life, could form under conditions thought to prevail on early Earth.  [\u25a0]Miller's experiment was elegant. He passed electric discharges through a mixture of methane, hydrogen, ammonia, and steam, and when he analyzed the results, found that he had made amino acids.  [\u25a0]The discharges were a proxy for lightning, the gas mixture an educated guess about what the early atmosphere may have been like. Amino acids cannot replicate themselves, and are not themselves alive. Nevertheless, this experiment has long been recognized as a landmark for understanding a process that must have been one of the important steps in the evolution of life on Earth, the natural synthesis of amino acids. However, it now seems likely that Miller's experiments may not be directly applicable to the events of the early Archean (that is, early in the geologic eon that lasted from Earth's formation until about 2.5 billion years ago).             \nOne of the problems hindering understanding of the origin of life is that environmental conditions on early Earth are not known with any certainty. It is possible to make only reasoned estimates. For example, for some fairly long period of time after formation, perhaps as much as several hundred million years, the surface must have been much hotter than it is today. Continued impacts of meteorites, large and small, would have added further heat energy, and in the earliest part of Earth history the larger impacting bodies may have broken through the cooling crust to expose underlying molten material. Large quantities of volcanic gases would have been released into the atmosphere as lavas erupted onto the surface, producing a greenhouse effect far more severe than anything likely to result from human activity. It is quite possible that the early atmosphere was many times as dense as today's, and that the seas and oceans were hot. Some have even suggested that because of the high atmospheric pressure, the oceans could have been hotter than the boiling point of water today. However, life as we know it is quite sensitive to temperature, and no modern organisms are known to survive much above 100\u2103. It is unlikely that life became established until surface temperatures had decreased to this level, or lower.             \nAlthough we do not know the precise composition of the early atmosphere, there has been enough progress made on this subject in recent years that it is possible to say with some certainty that the methane-rich composition envisioned by Oparin, and the methane-ammonia-hydrogen mixture used by Miller in his experiments, are probably not very realistic. Based on studies of our closest neighbor planets, Mars and Venus, and also considering evidence from Earth's sedimentary rocks, it seems probable that Earth's early atmosphere was rich in carbon dioxide rather than methane. On both Mars and Venus, carbon dioxide is by far the most abundant gas in the atmosphere. On Earth it is a minor constituent. But there is an enormous amount of this compound buried in the sedimentary rocks of Earth's crust, enough so that, if it were all released, our atmosphere would be much more like those of our neighboring planets. How did carbon dioxide gas end up in the crust? The answer lies in what geologists refer to as the carbon cycle. Through a series of chemical reactions, carbon dioxide from the atmosphere finds itself, in dissolved form, in the oceans. In seawater it combines with calcium to precipitate as calcium carbonate, the main constituent of limestone. Over geologic time so much carbon dioxide from the atmosphere has been converted to limestone in this fashion that there is more than 100,000 times as much stored as limestone as there is in the atmosphere.             \n ",
+    "questions": [
+        [
+            "According to paragraph 1, why were Miller's experimental results significant?",
+            [
+                "They explained the chemical composition of Earth during the early Archean.",
+                "They provided evidence of the importance of electrical charges on early Earth.",
+                "They showed how a key step in the evolution of life on Earth might have occurred.",
+                "They demonstrated that amino acids could be created only in the presence of methane gas."
+            ],
+            2
+        ],
+        [
+            "According to paragraph 1, in setting up his experiment, Miller assumed each of the following to be true EXCEPT:",
+            [
+                "Earth's early atmosphere probably included hydrogen and ammonia.",
+                "Lightning probably occurred on early Earth.",
+                "Electrical discharges took place deep below early Earth's surface.",
+                "Water was present in the early Earth."
+            ],
+            2
+        ],
+        [
+            "In paragraph 1,why does the author remark that \"Amino acids cannot replicate themselves, and are not themselves alive\"?",
+            [
+                "To suggest that other researchers were unable to reproduce Miller's experimental results",
+                "To establish the fact that Miller's experiment did not fully explain the origins of life",
+                "To point out an error in Miller's educated guess about what the early atmosphere was like",
+                "To support a statement about the importance of Miller's experiment"
+            ],
+            1
+        ],
+        [
+            "The word \"Nevertheless\" in the passage is closest in meaning to",
+            [
+                "In spite of this",
+                "It is obvious that",
+                "By comparison",
+                "Therefore"
+            ],
+            0
+        ],
+        [
+            "Select the TWO answer choices that, according to paragraph 2, describe effects that would have resulted from the impacts of meteorites on early Earth. To receive credit, you must select TWO answers.",
+            [
+                "Materials beneath the surface became molten.",
+                "Seas and oceans became larger.",
+                "Heat was added to Earth's surface.",
+                "Volcanic gases were added to the atmosphere."
+            ],
+            2
+        ],
+        [
+            "Paragraph 2 supports which of the following ideas about life on Earth?",
+            [
+                "Life on Earth probably first became established below the surface.",
+                "Life probably did not get established until several hundred million years after Earth's formation.",
+                "The earliest forms of life to become established were probably more sensitive to temperature than modern organisms are.",
+                "Meteorites were probably responsible for bringing the first organisms to Earth."
+            ],
+            1
+        ],
+        [
+            "Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.",
+            [
+                "Because we still know little about the precise composition of Earth's early atmosphere, we cannot evaluate Oparin's theory or Miller's methane-ammonia-hydrogen experiment.",
+                "Current knowledge suggests that Oparin and Miller were wrong about the composition of Earth's early atmosphere.",
+                "We now know that it was very unrealistic of Oparin and Miller to think that they could identify the precise methane-rich mixture that made up the early atmosphere.",
+                "Recent progress in understanding Earth's early history indicates that both Oparin and Miller clearly envisioned the precise atmospheric composition of early Earth."
+            ],
+            1
+        ],
+        [
+            "According to paragraph 3, what is the significance of the fact that the rocks of Earth's crust now contain an enormous amount of calcium carbonate?",
+            [
+                "It explains why Oparin and Miller believed that Earth's early atmosphere was methane rich.",
+                "It supports the idea that the atmosphere of early Earth was rich in carbon dioxide.",
+                "It helps explain where the carbon dioxide in Earth's atmosphere came from.",
+                "It provides evidence about the likely composition of the crust of early Earth."
+            ],
+            1
+        ],
+        [
+            "Oparin, however, had no experimental evidence for the processes he proposed..",
+            1
+        ],
+        [
+            [
+                "It now seems likely that conditions on early Earth differed in important ways from those that Miller tried to simulate in his experiment.",
+                "Life could not have become established in the early Archean without the greenhouse effect produced by the volcanic gases that were released into the atmosphere.",
+                "The amount of calcium carbonate in sedimentary rock suggests that the early atmosphere was probably rich in carbon dioxide rather than methane.",
+                "Neither Oparin nor Miller considered the role that meteorites would have played in determining environmental conditions on early Earth.",
+                "Temperatures in the seas and oceans of early Earth were probably high and had to cool for life to become established.",
+                "Like the atmospheres on Mars and Venus, Earth's atmosphere today remains substantially unchanged from what it was in the early period after the planets formed."
+            ],
+            [
+                0,
+                2,
+                4
+            ]
+        ]
+    ]
+}

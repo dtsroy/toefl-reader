@@ -1,0 +1,104 @@
+{
+    "article": "Until the second half of the nineteenth century, many scientists and philosophers believed that some forms of life could arise spontaneously from nonliving matter; they called this hypothetical process spontaneous generation. Not much more than 100 years ago, people commonly believed that toads, snakes, and mice could be born of moist soil; that flies could emerge from manure; and that maggots, the larvae of flies, could arise from decaying corpses.\nA strong opponent of spontaneous generation, the Italian physician Francesco Redi, set out in 1668 to demonstrate that maggots did not arise spontaneously from decaying meat. Redi filled three jars with decaying meat and sealed them tightly. Then he arranged three other jars similarly but left them open. Maggots appeared in the open vessels after flies entered the jars and laid their eggs, but the sealed containers showed no signs of maggots. Still, Redi\u2019s antagonists were not convinced; they claimed that fresh air was needed for spontaneous generation.  [\u25a0]So Redi set up a second experiment, in which three jars were covered with a fine net instead of being sealed.  [\u25a0]No larvae appeared in the net-covered jars, even though air was present.  [\u25a0]Maggots appeared only when flies were allowed to leave their eggs on the meat. [\u25a0]\nRedi\u2019s results were a serious blow to the long-held belief that large forms of life could arise from nonlife. However, many scientists still believed that tiny microorganisms were simple enough to be generated from nonliving materials.\nThe case for spontaneous generation of microorganisms seemed to be strengthened in 1745, when John Needham, an Englishman, found that even after he heated nutrient fluids (chicken broth and corn broth) before pouring them into covered flasks, the cooled solutions were soon teeming with microorganisms. Needham claimed that microbes developed spontaneously from the fluids. Twenty years later, Lazzaro Spallanzani, an Italian scientist, suggested that microorganisms from the air probably had entered Needham\u2019s solutions after they were boiled. Spallanzani showed that nutrient fluids heated after being sealed in a flask did not develop microbial growth. Needham responded by claiming the \u201cvital force\u201d necessary for spontaneous generation had been destroyed by the heat and was kept out of the flasks by the seals.\nThis intangible \u201cvital force\u201d was given all the more credence shortly after Spallanzani\u2019s experiment, when Laurent Lavoisier showed the importance of oxygen to life. Spallanzani\u2019s observations were criticized on the grounds that there was not enough oxygen in the sealed flasks to support microbial life.\nThe issue was still unresolved in 1858, when the German scientist Rudolf Virchow challenged spontaneous generation with the concept of biogenesis, the claim that living cells can arise only from preexisting living cells. Arguments about spontaneous generation continued until 1861, when the work of the French scientist Louis Pasteur ended the debate.\nWith a series of ingenious and persuasive experiments, Pasteur demonstrated that microorganisms are present in the air and can contaminate sterile solutions, but air itself does not create microbes. He filled several short-necked flasks with beef broth and then boiled their contents. Some were then left open and allowed to cool. In a few days, these flasks were found to be contaminated with microbes. The other flasks, sealed after boiling, were free of microorganisms. From these results, Pasteur reasoned that microbes in the air were the agents responsible for contaminating nonliving matter such as the broths in Needham\u2019s flasks.\nPasteur next placed broth in open-ended long-necked flasks and bent the necks into S-shaped curves. The contents of these flasks were then boiled and cooled. The broth in the flasks did not decay and showed no signs of life, even after months. Pasteur\u2019s unique design allowed air to pass into the flask, but the curved neck trapped any airborne microorganisms that might have contaminated the broth.\nPasteur showed that microorganisms can be present in nonliving matter\u2014on solids, in liquids, and in the air. His work provided evidence that microorganisms cannot originate from mysterious forces present in nonliving materials. Rather, any appearance of \u201cspontaneous\u201d life in nonliving solutions can be attributed to microorganisms that were already present in the air or in the fluids themselves.\n ",
+    "questions": [
+        [
+            "The word \u201chypothetical\u201d in the passage is closest in meaning to",
+            [
+                "biological",
+                "observable",
+                "supposed",
+                "repeated"
+            ],
+            2
+        ],
+        [
+            "According to paragraph 2, the purpose of Redi\u2019s second experiment was to show that spontaneous generation did not occur when",
+            [
+                "air was allowed to enter the net-covered jars",
+                "flies were allowed to enter the open jars",
+                "larvae were removed from net-covered jars",
+                "meat decay was prevented"
+            ],
+            0
+        ],
+        [
+            "According to paragraph 3, how did Redi\u2019s experiments change the debate over spontaneous generation?",
+            [
+                "His experiments strengthened the belief that large organisms could be generated from small organisms.",
+                "His experiments suggested that simple organisms could be generated from nonliving things.",
+                "His experiments provided evidence that at least some kinds of organisms did not arise spontaneously.",
+                "His experiments showed that small organisms survived the absence of air more easily than large ones did."
+            ],
+            2
+        ],
+        [
+            "Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.",
+            [
+                "John Needham seemed to confirm the idea of spontaneous generation when he found that heated broth remained uncontaminated but that numerous microorganisms appeared in cool broth.",
+                "John Needham gave support to the idea of spontaneous generation by showing that microorganisms appeared in broth that was heated before being placed in sealed containers.",
+                "John Needham seemed to show that microorganisms were generated spontaneously in broth that had been sealed before being heated and then cooled.",
+                "John Needham seemed to show that the spontaneous generation of microorganisms was more likely to occur in greater quantity in heated rather than cooled broth."
+            ],
+            1
+        ],
+        [
+            "In paragraph 4, why does the author discuss Spallanzani\u2019s experiment of heating nutrient fluids after they were sealed in flasks?",
+            [
+                "To explain why Spallanzani concluded that Needham\u2019s solutions had probably been contaminated with microbes from the air",
+                "To illustrate the increasing accuracy of theories about life forms based on experiments conducted during the eighteenth century",
+                "To explain why nutrient solutions that were heated and then cooled in covered flasks contained microorganisms",
+                "To illustrate how the boiling of nutrient solutions had affected the results of Needham\u2019s experiments"
+            ],
+            0
+        ],
+        [
+            "Paragraphs 6-8 suggest which of the following about the relationship between Pasteur\u2019s experiments and Virchow\u2019s concept of biogenesis?",
+            [
+                "In his description of the concept of biogenesis, Virchow proposed experiments similar to those later conducted by Pasteur.",
+                "Pasteur\u2019s experiments supported Virchow\u2019s idea that living organisms could arise only from other living organisms.",
+                "Pasteur\u2019s experiments renewed the arguments about spontaneous generation, which were finally settled by Virchow\u2019s theory.",
+                "Pasteur\u2019s experiments ended the debate about Virchow\u2019s concept of biogenesis by showing that the theory did not explain how microorganisms were generated."
+            ],
+            1
+        ],
+        [
+            "According to paragraph 7, why did Pasteur think that the microorganisms that had contaminated the liquids in his experiment had come from the air?",
+            [
+                "Previous experiments had shown that microbes in the air could contaminate sterile liquids.",
+                "The microorganisms appeared only in the broth in flasks that had been left open to the air.",
+                "The microorganisms appeared in the broth in sealed flasks only after a few days had passed.",
+                "The microorganisms appeared in the broth in flasks that had been unsealed, heated, and then resealed."
+            ],
+            1
+        ],
+        [
+            "According to paragraphs 7 and 8, Pasteur\u2019s experiment involving flasks with S-shaped necks proved that",
+            [
+                "air does not cause microorganisms to arise spontaneously from nonliving matter",
+                "microorganisms require access to nutrient fluids in order to arise spontaneously",
+                "the temperature of liquids has no effect on the presence or absence of microorganisms",
+                "microorganisms in the air cannot travel long distances"
+            ],
+            0
+        ],
+        [
+            "This allowed air into the jars, but not flies..",
+            1
+        ],
+        [
+            [
+                "Experiments in the seventeenth century showed that the idea of spontaneous generation did not apply to large organisms, but many still believed that microorganisms could arise spontaneously.",
+                "Opponents of Francesco Redi claimed that his findings were not defensible because some of the jars had been improperly sealed, allowing flies to enter.",
+                "Because boiling broth in sealed flasks prevented the growth of microorganisms, some scientists believed that the spontaneous generation of microorganisms required a \u201cvital force\u201d from the air.",
+                "Spallanzani\u2019s experiments were shown to be flawed, because he had used liquids that were contaminated by microbes.",
+                "The new concept of biogenesis, introduced in the nineteenth century, proposed that microbes required both oxygen and nutrients in order to survive.",
+                "Pasteur built on earlier experiments to show conclusively that microorganisms do not arise spontaneously but must come from other living things."
+            ],
+            [
+                0,
+                2,
+                5
+            ]
+        ]
+    ]
+}

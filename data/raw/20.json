@@ -1,0 +1,104 @@
+{
+    "article": "Corals belong to a group of animals called cnidarians. This group encompasses hard and soft corals, sea fans, gorgonians, hydroids, jellyfish, and sea anemones. Although the group is remarkably diverse, there are a few features shared by all. They have a free-swimming larval stage and a simple body plan: a central mouth, through which material passes in and out of the body, and a ring of tentacles. The other distinguishing feature of the cnidarians is the presence of nematocysts (stinging cells), which are used to catch prey.\n [\u25a0]Individual corals are known as coral polyps; each is a single animal. In isolation a coral polyp looks very similar to a sea anemone, but unlike sea anemones, which live separated from each other, corals form colonies.  [\u25a0]A few species remain solitary, but in most cases, new polyps bud off the initial founding polyp, and gradually colonies of thousands or even millions of polyps will grow, each connected to its neighbors by living tissue.  [\u25a0]Freed from the limitations of living alone, colonies can grow to immense sizes and live a very long time. [\u25a0]\nCorals come in all shapes and sizes, but the basic plan is the same; polyps live as a surface layer on some sort of structure, be it hard and inflexible or rubbery. The hard, or true corals, for which reefs are most famous, build limestone skeletons beneath the living tissue. Soft corals, as their name implies, do not form solid skeletons; instead they secrete limestone crystal structures called sclerites, which are embedded within a jellylike matrix beneath the polyps. When they die, little is left of most soft corals as the limestone element of their makeup is so small and easily breaks up.\nBy contrast, some sea whips and fans and, notably, the black corals, have such dense skeletons of limestone, protein, and minerals that they are highly durable and are collected and polished for jewelry. The skeleton of black corals is more dense the slower it grows, and it grows more slowly at depth. So it is the very deep, older colonies that are most highly prize.\nCoral reefs would not exist if it were not for the ability of coral polyps to secrete limestone or calcium carbonate. Sea water surrounding a coral is very rich in dissolved calcium carbonate, but the fluid inside the polyp cannot retain a large quantity of calcium carbonate, so it is laid down as microscopic needle-shaped crystals beneath and around the polyp. This process occurs in two stages. As the polyp expands to feed with its tentacles at night, it lifts off the skeleton, rather like a glove coming part way off a hand. At this stage, the calcium carbonate crystals form ridges. During the following day (when the coral polyp is retracted and lying on its new structure), the valleys between the ridges fill in with more calcium carbonate and the skeleton takes on a smoother appearance. Because the skeleton of hard corals is made of limestone or calcium carbonate, it is pure white.\nEach coral species lays down its skeleton in a different way. This gives rise to the extraordinary range of shapes and forms that hard corals take. Some form large boulders, where the polyps live in small, isolated depressions or grooves in the skeleton. Some grow in branches, which can be small and stubby, while others are spreading, treelike structures. Still others grow delicate, leaflike plates or flat tables. The range is huge, and to complicate the matter further, the same species will grow in a different way depending on the physical characteristics of the place in which it finds itself. Although a coral\u2019s genetic blueprint is fundamental in determining what it looks like, its appearance is also affected by waves, currents, light, and competition for space on the reef. Such variations in coral form have complicated the matter of identification over the years.\n ",
+    "questions": [
+        [
+            "According to paragraph 1, which of the following is true about the group of animals called cnidarians?",
+            [
+                "Its members are remarkably similar in appearance.",
+                "They are unable to catch their own food.",
+                "They can swim in their earliest stages of life.",
+                "They have highly complex bodies."
+            ],
+            2
+        ],
+        [
+            "According to paragraph 2, what do corals and sea anemones have in common?",
+            [
+                "The individuals of both species resemble each other.",
+                "They both form large colonies.",
+                "The individuals of both species are called polyps.",
+                "They both live very long lives."
+            ],
+            0
+        ],
+        [
+            "Which of the following can be inferred about coral reefs from paragraph 3?",
+            [
+                "They are only found on hard structures.",
+                "The most famous ones are supported by solid skeletons.",
+                "They require sclerites to live.",
+                "The jellylike matrix within them contains no limestone."
+            ],
+            1
+        ],
+        [
+            "The author mentions sea whips, fans, and black corals in paragraph 4 as examples of",
+            [
+                "cnidarians that are especially difficult to find",
+                "cnidarians whose skeletons do not easily break up",
+                "the many different kinds of corals that exist",
+                "reefs formed by soft corals"
+            ],
+            1
+        ],
+        [
+            "According to paragraphs 3 and 4, the corals considered to be the most valuable are those that",
+            [
+                "secrete limestone crystal structures",
+                "attach themselves to rubbery surfaces",
+                "contain little limestone",
+                "grow in the deepest waters"
+            ],
+            3
+        ],
+        [
+            "Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.",
+            [
+                "Calcium carbonate from surrounding sea water is stored inside a coral polyp in the form of small microscopic-shaped crystals.",
+                "Since only a small amount of calcium carbonate can be stored inside a coral polyp, it is also stored outside it.",
+                "The fluid inside a coral polyp is richer in calcium carbonate than the surrounding crystals containing calcium carbonate.",
+                "Calcium carbonate does not exist in crystal form in seawater, but it is found in that form inside coral polyps."
+            ],
+            1
+        ],
+        [
+            "The author mentions a glove in paragraph 5 in order to explain",
+            [
+                "how many tentacles polyps have",
+                "how polyps feed",
+                "how polyps protect themselves",
+                "why corals are beautiful"
+            ],
+            1
+        ],
+        [
+            "The phrase \u201cgives rise to\u201d in the passage is closest in meaning to",
+            [
+                "alters",
+                "causes",
+                "increases",
+                "builds on"
+            ],
+            1
+        ],
+        [
+            "In fact, some of these colonies have been known to last for several centuries..",
+            3
+        ],
+        [
+            [
+                "The tentacles of corals and other cnidarians, such as jellyfish, are armed with stinging cells that allow them to kill the prey they capture at night.",
+                "The skeletons of some soft corals are in fact so dense and strengthened with protein and minerals that they are highly prized as jewelry.",
+                "Each of the many species of hard corals has a characteristic shape, but a colony's form is also significantly influenced by local environmental conditions.",
+                "Corals form colonies of thousands of interconnected individual polyps on a surface the colony produces that may be either inflexible (hard corals) or rubbery (soft corals).",
+                "Colonies of hard corals deposit microscopic crystals of calcium carbonate that over long periods can build up to form coral reefs.",
+                "It is difficult to identify particular species of coral because different species in the same environment tend to take on the same form."
+            ],
+            [
+                2,
+                3,
+                4
+            ]
+        ]
+    ]
+}

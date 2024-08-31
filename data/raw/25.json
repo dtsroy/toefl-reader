@@ -1,0 +1,104 @@
+{
+    "article": "Because they have had some practice in hearing before birth, it is not surprising that infants have reasonably good auditory perception after they are born. In fact, for certain very high and very low frequencies, infants actually are more sensitive to sound than adults\u2014a sensitivity that seems to increase during the first two years of life. On the other hand, infants are initially less sensitive than adults to middle-range frequencies. Eventually, however, their capabilities within the middle range improve.\nIt is not fully clear what leads to the improvement during infancy in sensitivity to sounds, although it may be related to the maturation of the nervous system. More puzzling is why, after infancy, children\u2019s ability to hear very high and low frequencies gradually declines. One explanation may be that exposure to high levels of noise may diminish capacities at the extreme ranges. \nIn addition to the ability to detect sound, infants need several other abilities in order to hear effectively. For instance, sound localization permits infants to pinpoint the direction from which a sound is emanating. Compared to adults, infants have a slight handicap in this task, because effective sound localization requires the use of the slight difference in the times at which a sound reaches our two ears. Because infants\u2019 heads are smaller than those of adults, the difference in timing of the arrival of sound at the two ears is less than it is in adults. However, despite the potential limitation brought about by their smaller heads, infants\u2019 sound localization abilities are actually fairly good even at birth, and they reach adult levels of success by the age of one year. Interestingly, their improvement is not steady: although we don\u2019t know why, the accuracy of sound localization actually declines between birth and two months of age, but then begins to increase.\nEven more important to their ultimate success in the world, young infants are capable of making the fine discriminations that their future understanding of language will require. For instance, in one classic study, a group of one- to four-month-old infants sucked on nipples that activated a recording of a person saying \u201cba\u201d every time they sucked. At first, their interest in the sound made them suck vigorously. Soon, though, they became acclimated to the sound and sucked with less energy. On the other hand, when the experimenters changed the sound to \u201cpa,\u201d the infants immediately showed new interest and sucked with greater vigor once again. The clear conclusion: infants as young as one month old could make the distinction between the two similar sounds.\nEven more intriguing is the fact that young infants are able to discriminate certain characteristics that differentiate one language from another. Some evidence suggests that even two day olds show preferences for the language spoken by those around them over other languages. In the first few months, the ability to discriminate between languages develops rapidly. By the age of five months, they can distinguish the difference between English and Spanish passages, even when the two are similar in meter, number of syllables, and speed of recitation.\nGiven their ability to discriminate a difference in speech as slight as the difference between two consonants, it is not surprising that infants can distinguish different people on the basis of voice. In fact, from an early age they show clear preferences for some voices over others. For instance, in one experiment newborns were allowed to suck a nipple that turned on a recording of a human voice reading a story. The infants sucked significantly longer when the voice was that of their mother than when the voice was that of a stranger.\nHow do such preferences arise? One hypothesis is that prenatal exposure to the mother\u2019s voice is the key. As support for this conjecture, researchers point to the fact that newborns do not show a preference for their fathers\u2019 voices over other male voices. Furthermore, newborns prefer listening to melodies sung by their mothers before they were born to melodies that were not sung before birth. It seems, then, that the prenatal exposure to their mothers\u2019 voices\u2014although muffled by the liquid environment of the womb\u2014helps shape infants\u2019 listening preferences.\n ",
+    "questions": [
+        [
+            "The word \u201cinitially\u201din the passage is closest in meaning to",
+            [
+                "usually",
+                "at first",
+                "to some extent",
+                "basically"
+            ],
+            1
+        ],
+        [
+            "According to paragraph 1, which of the following statements does NOT accurately characterize auditory capability in infants?",
+            [
+                "Infants have good auditory capabilities in extreme frequencies rather than in middle frequencies.",
+                "Infants have no experience with auditory stimuli before they are born.",
+                "Infants are more capable of hearing high and low frequencies than adults are, and this capability increases during the first two years of life.",
+                "An infant\u2019s sensitivity to frequencies in the middle range improves as the infant grows older."
+            ],
+            1
+        ],
+        [
+            "Which of the following best describes the organization of paragraph 2?",
+            [
+                "A brief discussion of two changes in auditory perception together with possible explanations of them",
+                "Two hypotheses about auditory perception, followed by summaries of experiments that have tested those hypotheses",
+                "A brief history of studies of auditory perception, followed by a discussion of two recent studies",
+                "A comparison of two different answers to an important question in the study of auditory perception"
+            ],
+            0
+        ],
+        [
+            "According to paragraph 3, which of the following statements does NOT accurately characterize infants\u2019sound-localization capabilities?",
+            [
+                "The sound-localization capabilities of infants do not improve steadily, but the reason for this is unknown.",
+                "Infants\u2019 ability to localize sound declines steadily after two months of age, but then increases after the age of one.",
+                "The comparatively short distance between the ears of infants makes their sound localization potentially less exact than that of adults.",
+                "By the age of one year, infants\u2019 sound-localization capabilities are similar to those of adults."
+            ],
+            1
+        ],
+        [
+            "Which of the following statements describes a finding from the classic study on infants\u2019auditory perception that is discussed in paragraph 4?",
+            [
+                "Infants are more interested in sounds of spoken language than they are in other kinds of sounds.",
+                "Infants show more interest in some consonant sounds than others.",
+                "When the sound infants are hearing is changed, the infants lose interest.",
+                "Even very young infants are able to notice slight differences in sound."
+            ],
+            3
+        ],
+        [
+            "The classic study discussed in paragraph 4 supports which of the following claims?",
+            [
+                "The infants\u2019 sucking responses would have been different if a different pair of consonants had been used.",
+                "The infants in the study had previous exposure to a language in which the difference between \u201cba\u201d and \u201cpa\u201d is important.",
+                "Infants are more interested in what is new or unexpected than they are in any particular consonant sound.",
+                "Infants are able to produce the distinct consonant sounds that they hear as distinct."
+            ],
+            2
+        ],
+        [
+            "What is the main point of paragraph 5?",
+            [
+                "Very young children can distinguish between the sounds of different languages even though they cannot speak.",
+                "Many children are exposed at an early age to both English and Spanish.",
+                "Meter and speed of recitation are two characteristics children use to distinguish one language from another.",
+                "Children recognize similar sounding words in different languages."
+            ],
+            0
+        ],
+        [
+            "Why does the author discuss the voices of fathers and other males in paragraph 7?",
+            [
+                "To emphasize the difference between the auditory abilities before and after a child is born",
+                "To provide evidence that infants' listening preferences are shaped by what they hear in the womb",
+                "To argue that very young infants may have difficulty distinguishing between two similar-sounding voices",
+                "To argue that infants are less interested in male voices than female voices"
+            ],
+            1
+        ],
+        [
+            "a voice allows an infant to distinguish between",
+            3
+        ],
+        [
+            [
+                "Infants\u2019 ability to hear high and low frequencies is better than that of adults, and their ability to locate the source of a sound is also surprisingly good.",
+                "During the first two years of life, infants\u2019 sensitivity to middle-range frequencies improves more rapidly than their sensitivity to sounds at extreme frequencies.",
+                "Studies have shown that the liquid environment of the womb prevents a father\u2019s voice from being heard, which causes a newborn to prefer its mother\u2019s voice.",
+                "At an early age, infants are able to make auditory discriminations between two similar sounds, different languages, and different voices.",
+                "In one classic study, infants sucked vigorously on a nipple when they heard a recording of a person saying \u201cba,\u201d but lost interest once the sound changed to \u201cpa\u201d.",
+                "The preference of newborns for their mother\u2019s voice and melodies the mother sang during pregnancy suggest that prenatal exposure affects auditory development in the womb."
+            ],
+            [
+                0,
+                3,
+                5
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "article": "Solar energy reaching Earth is responsible for differential heating of the atmosphere and thus air circulation as wind. Some of the energy of wind is transferred to the oceans, where it causes waves and is partly responsible for oceanic currents, although Earth\u2019s rotation also plays a role in currents. Gravitational attraction between Earth and the Sun and Moon generates tides and, along with Earth\u2019s rotation, causes most coastal areas to experience a twice-daily rise and fall of sea level. In short, the oceans possess a tremendous reservoir of largely untapped energy.\nIf we could effectively harness the energy possessed by the oceans, an almost limitless, largely nonpolluting energy supply would be ensured.  [\u25a0]Unfortunately, ocean energy is diffuse, meaning that the amount of energy for a given volume of water is small and thus difficult to concentrate and use.  [\u25a0]Several ways of using ocean energy are being considered or are under development, and one is currently in use, although it accounts for only a tiny proportion of all energy production.  [\u25a0]Of the several sources of ocean energy --- temperature differences with depth; currents; waves; and tides --- only the last shows much promise for the near future. [\u25a0]\nOcean water at depth might be as much as 25\u2103 colder than surface water, a difference that allows for ocean thermal energy conversion (OTEC). OTEC exploits this temperature difference to run turbines and generate electricity. The amount of energy available is enormous, but a number of practical problems must be solved before it can be used. For one thing, any potential site must be close to land and also have a sufficiently rapid change with depth to result in the required temperature difference. Furthermore, enormous quantities of warm and cold seawater would have to circulate through an electrical-generating plant, thus requiring that large surface areas be devoted to this purpose.\nThe concept of OTEC is more than a century old, but despite several decades of research, no commercial OTEC plants are operating or even under construction, although small experimental ones have been tested in Hawaii and Japan.\nWind-generated ocean currents, such as the Gulf Stream, which flows along the east coast of North America, also posses energy that might be tapped to generate electricity. Unlike streams that can be dammed to impound a reservoir, any electrical-generating facility exploiting oceanic currents would have to concentrate currents\u2019 diffuse energy and contend with any unpredictable changes in direction. In addition, whereas hydroelectric generating plats on land depend on the rapid movement o water from the higher elevation to the turbines, the energy of ocean currents comes from their flow velocity, which is at most a few kilometers per hour.\nThe most obvious form of energy in the oceans lies in waves. Harnessing wave energy and converting it to electricity is not a new idea, and it has been used on an extremely limited scale. Unfortunately, the energy possessed by a wave is distributed along its crest and is difficult to concentrate. Furthermore, any facility would have to be designed to withstand the effects of storms and saltwater corrosion. The Japanese have developed wave-energy devices to power lighthouses and buoys, and a facility capable of providing power to about 300 homes began operating in Scotland during September 2000.\nPerhaps tidal power is the most promising form of ocean energy. In fact, it has been used for centuries in some coastal areas to run mills, but its use at present for electrical generation is limited. Most coastal areas experience a twice-daily rise the fall of tides, but only a few areas are suitable for exploiting this energy source. One limitation is that the tidal range must be at least five meters, and there must also be a coastal region where water can be stored following high tide.\nSuitable sites for using tidal power are limited not only by tidal range but also by location. Many areas along the U.S. Gulf Coast would certainly benefit from tidal power plants, but a tide range of generally less than one meter precludes the possibility of development. Even areas with an appropriate tidal range such as the Arctic islands of Canada offer little potential because of their great distances from population centers.\n ",
+    "questions": [
+        [
+            "According to paragraph 1, both wind energy and the rotation of Earth contribute to the creation of",
+            [
+                "waves",
+                "oceanic current",
+                "a gravitational attraction between earth and the sun and the moon",
+                "tides"
+            ],
+            1
+        ],
+        [
+            "The word \u201charness\u201d in the passage is closest in meaning to",
+            [
+                "put into use",
+                "separate out",
+                "come to understand",
+                "identify the location of"
+            ],
+            0
+        ],
+        [
+            "According to paragraph 3, the concept of OTEC is tied to which of the following aspects of the ocean?",
+            [
+                "Deep waters of the ocean are often calmer than surface waters are.",
+                "Enormous amounts of water are available below the surface of the ocean.",
+                "Temperatures beneath the ocean\u2019s surface water can vary greatly according to the depth of the water.",
+                "Waves and tides contribute to forming land sites that are ideal for running turbines and generating electricity."
+            ],
+            2
+        ],
+        [
+            "Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.",
+            [
+                "Although the construction and operation of OTEC plants are expensive, many commercial plants have been built in Hawaii and Japan.",
+                "Although OTEC is not a new idea, experimental OTEC plants are limited, and commercial OTEC plants do not even exist.",
+                "Because successful experiments using the concept of OTEC have been conducted in Hawaii and Japan for several decades, there are now commercial plants under construction.",
+                "After several decades of research, small experimental OTEC plants are being expanded to operate as large commercial plants."
+            ],
+            1
+        ],
+        [
+            "How does the author develop the discussion in paragraph 5 on the possibility of using wind-generated currents to generate electricity?",
+            [
+                "By providing examples of places where ocean currents have been used successfully",
+                "By describing the process by which wind-generated ocean currents produce energy",
+                "By contrasting ocean currents with other sources of water-generated electricity",
+                "By establishing a historical context for modern techniques of generating electricity"
+            ],
+            2
+        ],
+        [
+            "By mentioning the Japanese and Scotland in paragraph 6, the author is supporting which of the following points?",
+            [
+                "Some countries have come to depend heavily on power generated by the waves.",
+                "Unlike other countries, Scotland and Japan have had little success using energy from waves because of the effects of weather and corrosion.",
+                "The use of energy from waves is better suited for industrial purposes than it is for use in homes.",
+                "It is difficult to generate electricity by using ocean waves, even though it is being done to a limited extent in some places."
+            ],
+            3
+        ],
+        [
+            "Why does the author mention the fact that tides have been \u201cused for centuries in some coastal areas to run mills\u201d?",
+            [
+                "To compare how energy from the ocean was gotten in the past with how it is currently gotten",
+                "To emphasize the difficulty of providing for the energy needs of the coastal areas",
+                "To explain why some coastal areas had more energy available in the past than inland areas typically did",
+                "To support the idea that the tides are probably the most easily converted source of energy from the sea"
+            ],
+            3
+        ],
+        [
+            "The word \u201cprecludes\u201d in the passage is closest in meaning to",
+            [
+                "prevents",
+                "presents",
+                "prepares",
+                "preserves"
+            ],
+            0
+        ],
+        [
+            "Nevertheless,The ocean, therefore, presents a potentially appealing source of energy..",
+            0
+        ],
+        [
+            [
+                "Earth\u2019s rotation is the most important factor in the formation of oceanic currents.",
+                "OTEC produces large amounts of energy and is used to run turbines and to produce a great deal of electricity.",
+                "Problems associated with energy storage, concentrating ocean power, and resource location have limited the use of oceanic energy.",
+                "Despite the theoretical advantages of waves, currents, and tides as sources of energy, it remains difficult to take advantage of these resources.",
+                "Experts have tried, mostly unsuccessfully, to solve the practical problems associated with exploiting the temperature differences of the ocean.",
+                "The Arctic islands of Canada have been shown to be the most suitable sites for tidal power and have benefited the most from the use of this source of electricity."
+            ],
+            [
+                2,
+                3,
+                4
+            ]
+        ]
+    ]
+}

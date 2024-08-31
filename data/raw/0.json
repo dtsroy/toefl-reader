@@ -1,0 +1,104 @@
+{
+    "article": "Each year the emperor penguin lays one egg, the pigeon lays one or two eggs, the gull typically lays three eggs, the Canada goose four to six eggs, and the American merganser ten or eleven eggs. What determines clutch size in birds? The ultimate factors that determine clutch size are the requirements for long-term (evolutionary)survival. Clutch size is viewed as an adaptation under the control of natural selection.\nNatural selection will favor those birds that leave the most descendants to future generations. At first thought we might hypothesize that natural selection favors a clutch size that is the physiological maximum the bird can lay. We can test this hypothesis by taking eggs from nests as they are laid. When we do this, we find that some birds, such as the common pigeon, are determinate layers; they lay a given number of eggs, no matter what. The pigeon lays two eggs, if you take away the first, it will incubate the second egg only. If you add a third egg, it will incubate all three. But many other birds are indeterminate layers; they will continue to lay eggs until the nest is \"full\". If eggs are removed once they are laid, these birds will continue laying. When this subterfuge was used on a mallard female, she continued to lay one egg per day until she had laid 100 of them. Evidence from other, similar experiments suggests that most birds under normal circumstances do not lay their physiological limit of eggs but that ovulation is stopped long before this limit is reached.\nThe British ornithologist David Lack was one of the first ecologists to recognize the importance of evolutionary thinking in understanding adaptations in life history traits.  [\u25a0]In 1947 Lack put forward the idea that clutch size in birds was determined by the number of young that parents can provide with food.  [\u25a0]If his hypothesis is correct, the total production of young ought to be highest at the normal clutch size.  [\u25a0]And if one experimentally increased clutch size by adding eggs to nests, increased clutches should suffer greater losses because the parents could not feed the extra young in the nest. [\u25a0]\nOne way to think about this problem of optimum clutch size is to use a simple economic approach. Everything an organism does has some costs and some benefits. The benefits of laying more eggs are very clear--more descendants in the next generation. The costs are less clear. There is an energy cost to make each additional egg, and there is a further cost to feed each additional nestling. If the adult birds must work harder to feed their young, there is also a potential cost in adult survival -the adults may not live until the next breeding season. If adults are unable to work harder, there is a risk of reduction in offspring quality. Models of this type are useful because they help us think about the costs and benefits for a particular ecological strategy. No organism has an infinite amount of energy to spend on its activities. The reproductive rate of birds can be viewed as one sector of a bird's energy balance, and the needs of reproduction must be maximized within the constraints of other energy requirements. The total requirements involve metabolic maintenance, growth, energy used for predator avoidance, competitive interactions, and reproduction. According to Lack's hypothesis, if enough additional eggs are placed in a bird's nest, reproductive energy requirements escalate and the whole brood will suffer from starvation so that, in fact, fewer young birds will fledge from nests containing large numbers ofeggs.\nIn England, the blue tit normally lays a clutch of nine to eleven eggs.  What would happen if blue tits had a brood of twelve or thirteen?  A researcher artificially manipulated broods at hatching by adding or subtracting chicks and found that the survival of the young blue tits in manipulated broods was poor. Blue tits feed on insects and apparently cannot feed additional young adequately, so more of the young starve. Consequently, it would not benefit a blue tit in the evolutionary sense to lay more eggs and the results are consistent with Lack's hypothesis. Individual birds appear to produce the clutch size that maximizes their reproductive potential.\n ",
+    "questions": [
+        [
+            "The word \"ultimate\" in the passage is closest in meaning to",
+            [
+                "fundamental",
+                "characteristic",
+                "various",
+                "immediate"
+            ],
+            0
+        ],
+        [
+            "Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.",
+            [
+                "Experimental evidence suggests that for most birds, the physiological limits of egg production depend on the circumstances.",
+                "Experimental evidence suggests that most birds are physiologically capable of laying more eggs than they normally do.",
+                "Most experiments yield similar evidence about the extent to which egg laying is normally determined by the physiological limits of egg production.",
+                "Although some experiments suggest that birds lay as many eggs as they can, other, similar experiments suggest that this is not true for most birds."
+            ],
+            1
+        ],
+        [
+            "According to paragraph 2, what is the difference between determinate layers and indeterminate layers?",
+            [
+                "Determinate layers typically have much smaller clutches than indeterminate layers do.",
+                "Determinate layers lay fewer eggs than they are capable of incubating, whereas indeterminate layers typically lay more eggs than they are capable of incubating.",
+                "Indeterminate layers typically build larger nests for their eggs than determinate layers do.",
+                "The number of eggs produced by an indeterminate laye depends on the circumstances, whereas the number of eggs produced by a determinate layer does not."
+            ],
+            3
+        ],
+        [
+            "The word \"potential\" in the passage is closest in meaning to",
+            [
+                "additional",
+                "practical",
+                "possible",
+                "serious"
+            ],
+            2
+        ],
+        [
+            "According to paragraph 3, what was Lack's idea about clutch size?",
+            [
+                "As the size of a clutch decreases, it becomes increasingly likely that all the eggs in the clutch will hatch successfully.",
+                "The number of eggs in a normal clutch depends on the number of chicks that the parents are likely to be able to feed.",
+                "If parents are not able to feed a large number of chicks, future generations will adapt to make this possible.",
+                "Clutch size varies significantly. depending on the likely availability of food for the chicks once they have hatched."
+            ],
+            1
+        ],
+        [
+            "Select the TWO answer choices that, according to paragraph 4, explain why increasing clutch size can actually reduce the number of a bird\u2019s descendants. To receive credit, you must select Two answers.",
+            [
+                "The energy costs involved in producing the additional eggs could reduce the bird's capacity to produce high quality eggs in the future.",
+                "Larger clutch size means that more energy must be spent on predator avoidance, thus reducing the total energy available for feeding nestlings.",
+                "The increased energy used for feeding the extra nestlings could threaten the adults' survival to the next breeding season.",
+                "When adults are unable to feed the larger number of nestlings adequately the nestlings might be less able to survive."
+            ],
+            2
+        ],
+        [
+            "What is the main purpose of paragraph 5?",
+            [
+                "To show that Lack's hypothesis is supported by experimental results",
+                "To argue that Lack's hypothesis applies only to birds that feed on insects",
+                "To illustrate how difficult it is to test an ecological hypothesis such as Lack's",
+                "To provide an example to show how useful the economic approach can be in evaluating an Ecologicahypothesis such as Lack's"
+            ],
+            0
+        ],
+        [
+            "According to paragraph 5, what generally happens when bluetits' broods have chicks added to them?",
+            [
+                "The adults generally do not feed the chicks that have been added.",
+                "Fewer chicks survive than survive from a normal-sized brood.",
+                "The blue tits switch to insects as a source of food for the extra chicks.",
+                "The blue tits react in a way that maximizes their reproductive potential."
+            ],
+            1
+        ],
+        [
+            "Lack's proposed dependence of clutch size on food availability has clear implications..",
+            1
+        ],
+        [
+            [
+                "Some birds incubate whatever eggs they find in their nests, whereas other birds will not incubate any eggs unless they have produced enough eggs to fill the nest.",
+                "David Lack's hypothesis that birds produce the clutch size that will result in the maximum number of chicks they can adequately feed has been experimentally supported.",
+                "Optimum clutch size can be seen as the best balance--given the available energy and total energy requirements--between the costs and the benefits associated with larger clutch size.",
+                "Experimental results show that generally clutch size cannot be explained as a result of natural selection's favoring birds that lay as many eggs as their physiology allows.",
+                "An economic model allows the particular costs and benefits of each egg that is added to or subtracted from a normal clutch to be clearly evaluated.",
+                "Lack's hypothesis was first experimentally tested by researchers who artificially manipulated the size of bluetits\u2019 broods by adding and subtracting eggs from their nests."
+            ],
+            [
+                1,
+                2,
+                3
+            ]
+        ]
+    ]
+}

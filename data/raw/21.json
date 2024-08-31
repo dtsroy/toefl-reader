@@ -1,0 +1,104 @@
+{
+    "article": " [\u25a0]It is thought that the facial pits or pit organs on the head of some snakes are specialized infrared (heat) receptors.  [\u25a0]When a rattlesnake strikes, the direction of the strike seems to be guided by the infrared radiation from its prey.  [\u25a0]A rattlesnake strikes only at warm-blooded prey, and when the prey is dead and at room temperature, the snake will not strike.  [\u25a0]However, a blindfolded snake strikes correctly at a dead rat that is pulled across the cage, provided the rat is warmer than the surroundings. Blindfolded, the snake cannot be guided by vision; nor is it guided by the sense of smell, for it will strike correctly even at a moving, cloth-wrapped electric bulb. The pit organs are evidently involved in sensing the location of warm objects. All snakes that have pit organs feed preferentially on warm-blooded prey, and this further supports the view that these organs are infrared sensors. In the rattlesnake the pit organs are located, one on each side, between the nostril and the eye; they are connected to many nerves, and this in itself suggests a sensory role for the organ.\nThe sensitivity of the facial pit has been examined by recording the activity in the nerve leading from the organ. A variety of stimuli, such as sound, vibration, or light of moderate intensity (with the infrared part of the spectrum filtered out), has no detectable effect on the activity in the nerve. However, if objects of a temperature different from the surroundings are brought into the receptive field around the head, there is a striking change in nerve activity, regardless of the temperature of the intervening air.\nHow is the infrared radiation sensed? The pit is covered by a thin transparent membrane, and it has been suggested that a rise in temperature in the pit behind the membrane could cause an expansion of the gas with a consequent deformation of the membrane. This in turn could be sensed by a suitable receptor. This hypothesis is highly improbable, for a cut in the membrane that opens the pit to the outside air causes no loss in responsiveness, a result that is incompatible with the hypothesis that a pressure change is sensed.\nWe are left with two other possibilities to consider: Either the effect is photochemical, which means that the infrared radiation is absorbed by a specific compound, analogous to the light-sensitive pigments in the eye, or the pit organs are sensitive to the slight temperature rise caused when infrared radiation reaches it. The infrared radiation emitted from a mammalian body has low quantum energy, which makes any photochemical effect on a pigment extremely unlikely. Pure infrared radiation can be produced by a laser, and experiments with such radiation of known wavelength provide strong evidence that the mode of reception in the facial pit organ is entirely thermal.\nCan the pit organs be used for perception of the infrared source in the way our two eyes are used for stereoscopic vision? This seems likely, not only from observations of the precision with which a snake can strike, but also from studies of its brain activity. When infrared radiation falls on the facial pit organ, electric activity can be recorded from the optic tectum, the part of the brain with which the optic nerve is connected. This in itself is suggestive; although the nerves from the pit organ are completely separate from the optic nerves, the same part of the brain seems to handle visual information, which is known to be stereoscopic, and infrared information. The optic tectum has left and right parts, located on either side of the brain. Each part receives input from each eye via the optic chiasma, the point at which the optic nerves from the left and right eye meet. Many of the neurons in the tectum respond to stimulation of the pit organ on the opposite side of the head. This is reminiscent of the way information from the eyes is handled; the crossover of the optic nerve in the optic chiasma is essential for stereoscopic vision and interpretation of distance.Information from the two pit organs is apparently coordinated and interpreted in a similar way, a conclusion in agreement with recorded changes in the neural activity in the tectum when the infrared source is in a position to irradiate both pits at once. It therefore appears that the facial pits indeed provide stereoscopic perception and substantially aid in the precision of estimating the location of prey.\n ",
+    "questions": [
+        [
+            "According to paragraph 1, a rattlesnake will only strike at prey when",
+            [
+                "the snake is able to see the prey",
+                "the prey emits chemical odors",
+                "the prey is moving",
+                "the prey is warmer than its surroundings"
+            ],
+            3
+        ],
+        [
+            "Why does the author mention a \u201ccloth-wrapped electric bulb\u201d in the passage?",
+            [
+                "To illustrate the size of prey usually attacked by snakes",
+                "To prove that blindfolded snakes will strike more often at a dead rat than an electric bulb",
+                "To eliminate the possibility that snakes locate prey by using a sense of smell",
+                "To explain how scientists were able to trick blindfolded snakes"
+            ],
+            2
+        ],
+        [
+            "Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.",
+            [
+                "However, if objects in the surrounding area experience a temperature change, nerve activity causes a change in temperature in the receptive field around the snake\u2019s head.",
+                "When objects that differ in temperature from the surroundings enter the receptive field around the head, the result is a dramatic change in nerve activity.",
+                "Nerve activity changes when new objects are introduced into the area around a snake\u2019s head, regardless of how their temperature compares to that of the surrounding air.",
+                "The temperature of the air in the receptive field around the snake\u2019s head has an effect on the nerve activity of the snake if the objects in the field are at a different temperature."
+            ],
+            1
+        ],
+        [
+            "The word \u201cconsequent\u201d in the passage is closest in meaning to",
+            [
+                "resultant",
+                "eventual",
+                "premature",
+                "visible"
+            ],
+            0
+        ],
+        [
+            "Which of the following can be inferred from the discussion about infrared sensation and pit organs in paragraph 3?",
+            [
+                "Rattlesnakes have special receptors that detect pressure changes in the pit organ membrane.",
+                "Damaged pit organ membranes do not prevent a rattlesnake from detecting a warm animal nearby.",
+                "The experiments on pit organ membranes were conducted in a chamber with air at outside temperatures.",
+                "The idea that pit organs help snakes to locate prey by radiation has been disproved."
+            ],
+            1
+        ],
+        [
+            "According to paragraph 4, which of the following tends to exclude a photochemical explanation for the sensory function of snake pit organs?",
+            [
+                "Only lasers can produce the exact wavelengths of radiation that have an effect on pit organs.",
+                "Light-sensitive pigments are located in the eyes but not in the pit organs of snakes.",
+                "Compounds sensitive to infrared radiation have not yet been identified in snake pit organs.",
+                "The infrared radiation from a snake\u2019s prey has too little energy to affect the snake\u2019s pigments."
+            ],
+            3
+        ],
+        [
+            "The word \u201csubstantially\u201d in the passage is closest in meaning to",
+            [
+                "reliably",
+                "undoubtedly",
+                "frequently",
+                "significantly"
+            ],
+            3
+        ],
+        [
+            "According to paragraph 5, all of the following support the idea that a snake uses its pit organs for stereoscopic perception EXCEPT the fact that",
+            [
+                "stimulation of a pit organ has an effect on the tectum on the opposite side of the brain",
+                "the same part of the brain that deals with stereoscopic vision is activated by infrared stimulation of the pit organs",
+                "the nerves of the right eye and the right pit organ are completely separate from the nerves of the left eye and the left pit organ",
+                "a snake is able to strike its prey with precision"
+            ],
+            2
+        ],
+        [
+            "Infrared radiation can be perceived directly by a few animals that have specialized sense organs that respond to this type of radiation..",
+            0
+        ],
+        [
+            [
+                "Some snakes seem to be able to locate and strike at warm-blooded prey solely through the use of pit organs.",
+                "The pit organs of snakes seem to be sensitive to a variety of stimuli, including sound, vibration, and light, as well as heat.",
+                "The precision with which snakes are able to locate prey can be accounted for by the intersection of the optic nerves and nerves from the pit organs.",
+                "Snakes with pit organs will strike at dead rats at room temperature only when the rats are dragged across a cage.",
+                "Experiments provide strong evidence that snake pit organs are sensitive to temperature changes caused by infrared radiation.",
+                "Studies of brain activity suggest that the two facial pits provide snakes with stereoscopic perception for the exact location of prey."
+            ],
+            [
+                0,
+                4,
+                5
+            ]
+        ]
+    ]
+}
