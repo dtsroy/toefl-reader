@@ -85,27 +85,30 @@ class ReaderNetwork(nn.Module):
         return score
 
 
-model = ReaderNetwork(VOCAB_SIZE, 128, 64, 4)
-criterion = nn.CrossEntropyLoss()
-optimizer = optim.Adam(model.parameters(), lr=1e-2)
+def train(q, q):
 
-EPOCHS = 100
-bl = 1e9
-DEVICE = torch.device('cpu')
+    model = ReaderNetwork(VOCAB_SIZE, 128, 64, 4)
+    criterion = nn.CrossEntropyLoss()
+    optimizer = optim.Adam(model.parameters(), lr=1e-2)
 
-train_loader, test_loader = get_loader('data/processed/tokens.bin', 'data/processed/answers.bin', DEVICE)
+    EPOCHS = 100
+    bl = 1e9
+    DEVICE = torch.device('cpu')
 
-for i in (t := trange(EPOCHS)):
-    for d, y in train_loader:
-        y_p = model(*d)
-        loss = criterion(y_p, y)
+    # train_loader, test_loader = get_loader('data/processed/tokens.bin', 'data/processed/answers.bin', DEVICE)
+    train_loader, test_loader = get_loader(q, a, DEVICE)
 
-        optimizer.zero_grad()
-        loss.backward()
-        optimizer.step()
-        lv = loss.item()
+    for i in (t := trange(EPOCHS)):
+        for d, y in train_loader:
+            y_p = model(*d)
+            loss = criterion(y_p, y)
 
-        if lv < bl:
-            torch.save(model.state_dict(), 'model/b.pth')
-            bl = lv
-        t.set_description(f'Epoch={i}, loss={lv}, best_loss={bl}')
+            optimizer.zero_grad()
+            loss.backward()
+            optimizer.step()
+            lv = loss.item()
+
+            if lv < bl:
+                torch.save(model.state_dict(), 'model/b.pth')
+                bl = lv
+            t.set_description(f'Epoch={i}, loss={lv}, best_loss={bl}')
