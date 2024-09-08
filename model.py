@@ -65,7 +65,7 @@ class ReaderNetwork(nn.Module):
         self.fc_merge = nn.Linear(2 * hidden_dim, hidden_dim)
         self.classifier = nn.Linear(hidden_dim, num_choices)
 
-        self.softmax = nn.Softmax()
+        self.softmax = nn.Softmax(dim=2)
 
     def forward(self, article_ids, question_ids):
         article_embeddings = self.embedding(article_ids)
@@ -81,7 +81,7 @@ class ReaderNetwork(nn.Module):
         combined = torch.tanh(self.fc_merge(combined))
 
         logits = self.classifier(combined)
-        score = self.softmax(logits, dim=-1)
+        score = self.softmax(logits)
         return score
 
 

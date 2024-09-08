@@ -60,7 +60,12 @@ class ReaderDataset(Dataset):
         return self.data[item], self.ans_tensor[item]
 
 
-def get_loader(qts, ans, device):
+def get_dataset(qts, ans, device):
     s1 = ReaderDataset(qts, ans, device)
     s2 = ReaderDataset(qts, ans, device, mode='eval')
+    return s1, s2
+
+
+def get_loader(qts, ans, device):
+    s1, s2 = get_dataset(qts, ans, device)
     return DataLoader(s1, batch_size=100, shuffle=True), DataLoader(s2, batch_size=20, shuffle=False)
