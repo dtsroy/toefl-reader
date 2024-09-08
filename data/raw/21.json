@@ -1,98 +1,138 @@
 {
-    "article": " [\u25a0]It is thought that the facial pits or pit organs on the head of some snakes are specialized infrared (heat) receptors.  [\u25a0]When a rattlesnake strikes, the direction of the strike seems to be guided by the infrared radiation from its prey.  [\u25a0]A rattlesnake strikes only at warm-blooded prey, and when the prey is dead and at room temperature, the snake will not strike.  [\u25a0]However, a blindfolded snake strikes correctly at a dead rat that is pulled across the cage, provided the rat is warmer than the surroundings. Blindfolded, the snake cannot be guided by vision; nor is it guided by the sense of smell, for it will strike correctly even at a moving, cloth-wrapped electric bulb. The pit organs are evidently involved in sensing the location of warm objects. All snakes that have pit organs feed preferentially on warm-blooded prey, and this further supports the view that these organs are infrared sensors. In the rattlesnake the pit organs are located, one on each side, between the nostril and the eye; they are connected to many nerves, and this in itself suggests a sensory role for the organ.\nThe sensitivity of the facial pit has been examined by recording the activity in the nerve leading from the organ. A variety of stimuli, such as sound, vibration, or light of moderate intensity (with the infrared part of the spectrum filtered out), has no detectable effect on the activity in the nerve. However, if objects of a temperature different from the surroundings are brought into the receptive field around the head, there is a striking change in nerve activity, regardless of the temperature of the intervening air.\nHow is the infrared radiation sensed? The pit is covered by a thin transparent membrane, and it has been suggested that a rise in temperature in the pit behind the membrane could cause an expansion of the gas with a consequent deformation of the membrane. This in turn could be sensed by a suitable receptor. This hypothesis is highly improbable, for a cut in the membrane that opens the pit to the outside air causes no loss in responsiveness, a result that is incompatible with the hypothesis that a pressure change is sensed.\nWe are left with two other possibilities to consider: Either the effect is photochemical, which means that the infrared radiation is absorbed by a specific compound, analogous to the light-sensitive pigments in the eye, or the pit organs are sensitive to the slight temperature rise caused when infrared radiation reaches it. The infrared radiation emitted from a mammalian body has low quantum energy, which makes any photochemical effect on a pigment extremely unlikely. Pure infrared radiation can be produced by a laser, and experiments with such radiation of known wavelength provide strong evidence that the mode of reception in the facial pit organ is entirely thermal.\nCan the pit organs be used for perception of the infrared source in the way our two eyes are used for stereoscopic vision? This seems likely, not only from observations of the precision with which a snake can strike, but also from studies of its brain activity. When infrared radiation falls on the facial pit organ, electric activity can be recorded from the optic tectum, the part of the brain with which the optic nerve is connected. This in itself is suggestive; although the nerves from the pit organ are completely separate from the optic nerves, the same part of the brain seems to handle visual information, which is known to be stereoscopic, and infrared information. The optic tectum has left and right parts, located on either side of the brain. Each part receives input from each eye via the optic chiasma, the point at which the optic nerves from the left and right eye meet. Many of the neurons in the tectum respond to stimulation of the pit organ on the opposite side of the head. This is reminiscent of the way information from the eyes is handled; the crossover of the optic nerve in the optic chiasma is essential for stereoscopic vision and interpretation of distance.Information from the two pit organs is apparently coordinated and interpreted in a similar way, a conclusion in agreement with recorded changes in the neural activity in the tectum when the infrared source is in a position to irradiate both pits at once. It therefore appears that the facial pits indeed provide stereoscopic perception and substantially aid in the precision of estimating the location of prey.\n ",
+    "article": "In Europe, before the introduction of the mechanical clock, people told time by sun (using, for example, shadow sticks or sun dials) and water clocks. Sun clocks worked, of course, only on clear days; water clocks misbehaved when the temperature fell toward freezing, to say nothing of long-run drift as the result of sedimentation and clogging. Both these devices worked well in sunny climates; but in northern Europe the sun may be hidden by clouds for weeks at a time, while temperatures vary not only seasonally but from day to night.\nMedieval Europe gave new importance to reliable time. The Catholic Church had its seven daily prayers, one of which was at night, requiring an alarm arrangement to waken monks before dawn. And then the new cities and towns, squeezed by their walls, had to know and order time in order to organize collective activity and ration space. They set a time to go to sleep,to open the market ,to close the market ,to leave work ,and finally a time to put out fires and to go to sleep. All this was compatible with older devices so long as there was only one authoritative timekeeper; but with urban growth and the multiplication of time signals, discrepancy brought discord and strife. Society needed a more dependable instrument of time measurement and found it in the mechanical clock.\nWe do not know who invented this machine, or where. It seems to have appeared in Italy and England (perhaps simultaneous invention) between 1275 and 1300. Once known, it spread rapidly, driving out water clocks but not solar dials, which were needed to check the new machines against the timekeeper of last resort. These early versions were rudimentary, inaccurate, and prone to breakdown.\n \nIronically, the new machine tended to undermine Catholic Church authority. Although church ritual had sustained an interest in timekeeping throughout the centuries of urban collapse\n that followed the fall of Rome, church time was nature\u2019 s time. [\u25a0]Day and night were divided into the same number of parts, so that except at the equinoxes, days and night hours were unequal;\n and then of course the length of these hours varied with the seasons. [\u25a0]But the mechanical clock kept equal hours, and this implied a new time reckoning. [\u25a0]The Catholic Church resisted, \n not coming over to the new hours for about a century. [\u25a0]From the start, however, the towns and cities took equal hours as their standard, and the public clocks installed in town halls and market \n squares became the very symbol of a new, secular municipal authority. Every town wanted one; conquerors seized them as especially precious spoils of war; tourists came to see and hear these \n machines the way they made pilgrimages to sacred relics.\n\nThe clock was the greatest achievement of medieval mechanical ingenuity. Its general accuracy could be checked against easily observed phenomena, like the rising and setting of the sun. The result was relentless pressure to improve technique and design. At every stage, clockmakers led the way to accuracy and precision; they became masters of miniaturization, detectors and correctors of error, searchers for new and better. They were thus the pioneers of mechanical engineering and served as examples and teachers to other branches of engineering.\nThe clock brought order and control, both collective and personal. Its public display and private possession laid the basis for temporal autonomy: people could now coordinate comings and goings without dictation from above. The clock provided the punctuation marks for group activity, while enabling individuals to order their own work (and that of others) so as to enhance productivity. Indeed, the very notion of productivity is a by-product of the clock: once one can relate performance to uniform time units, work is never the same. One moves from the task-oriented time consciousness of the peasant (working on job after another, as time and light permit) and the time-filling busyness of the domestic servant (who always had something to do) to an effort to maximize product per unit of time.\n ",
     "questions": [
         [
-            "According to paragraph 1, a rattlesnake will only strike at prey when",
+            "Why does the author provide the information that \u201din northern Europe the sun may be hidden by clouds for weeks at a time, while temperatures vary not only seasonally but from day to night\u201d",
             [
-                "the snake is able to see the prey",
-                "the prey emits chemical odors",
-                "the prey is moving",
-                "the prey is warmer than its surroundings"
-            ],
-            3
-        ],
-        [
-            "Why does the author mention a \u201ccloth-wrapped electric bulb\u201d in the passage?",
-            [
-                "To illustrate the size of prey usually attacked by snakes",
-                "To prove that blindfolded snakes will strike more often at a dead rat than an electric bulb",
-                "To eliminate the possibility that snakes locate prey by using a sense of smell",
-                "To explain how scientists were able to trick blindfolded snakes"
-            ],
-            2
-        ],
-        [
-            "Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.",
-            [
-                "However, if objects in the surrounding area experience a temperature change, nerve activity causes a change in temperature in the receptive field around the snake\u2019s head.",
-                "When objects that differ in temperature from the surroundings enter the receptive field around the head, the result is a dramatic change in nerve activity.",
-                "Nerve activity changes when new objects are introduced into the area around a snake\u2019s head, regardless of how their temperature compares to that of the surrounding air.",
-                "The temperature of the air in the receptive field around the snake\u2019s head has an effect on the nerve activity of the snake if the objects in the field are at a different temperature."
+                "To emphasize the variety of environments in which people used sun and water clocks to tell time",
+                "To illustrate the disadvantage of sun and water clocks",
+                "To provide an example of an area where water clocks have an advantage over sun clocks",
+                "To counter the claim that sun and water clocks were used all over Europe"
             ],
             1
         ],
         [
-            "The word \u201cconsequent\u201d in the passage is closest in meaning to",
+            "According to paragraph 2, all of the following are examples of the importance of timekeeping to medieval European society EXCEP",
             [
-                "resultant",
-                "eventual",
-                "premature",
-                "visible"
+                "the need of different towns to coordinate timekeeping with each other",
+                "the setting of specific times for the opening and closing of markets",
+                "the setting of specific time for the start and finish of the working day",
+                "the regulation of the performance of daily church rituals"
             ],
             0
         ],
         [
-            "Which of the following can be inferred from the discussion about infrared sensation and pit organs in paragraph 3?",
+            "According to paragraph 2, why did the medieval church need an alarm arrangement?",
             [
-                "Rattlesnakes have special receptors that detect pressure changes in the pit organ membrane.",
-                "Damaged pit organ membranes do not prevent a rattlesnake from detecting a warm animal nearby.",
-                "The experiments on pit organ membranes were conducted in a chamber with air at outside temperatures.",
-                "The idea that pit organs help snakes to locate prey by radiation has been disproved."
-            ],
-            1
-        ],
-        [
-            "According to paragraph 4, which of the following tends to exclude a photochemical explanation for the sensory function of snake pit organs?",
-            [
-                "Only lasers can produce the exact wavelengths of radiation that have an effect on pit organs.",
-                "Light-sensitive pigments are located in the eyes but not in the pit organs of snakes.",
-                "Compounds sensitive to infrared radiation have not yet been identified in snake pit organs.",
-                "The infrared radiation from a snake\u2019s prey has too little energy to affect the snake\u2019s pigments."
+                "The alarm warned the monks of discord or strife in the town.",
+                "The church was responsible for regulating working hours and market hours.",
+                "The alarm was needed in case fires were not put out each night.",
+                "One of the church\u2019s daily rituals occurred during the night."
             ],
             3
         ],
         [
-            "The word \u201csubstantially\u201d in the passage is closest in meaning to",
+            "The word \u201cauthoritative\u201din the passage is closest in meaning to",
             [
-                "reliably",
-                "undoubtedly",
-                "frequently",
-                "significantly"
-            ],
-            3
-        ],
-        [
-            "According to paragraph 5, all of the following support the idea that a snake uses its pit organs for stereoscopic perception EXCEPT the fact that",
-            [
-                "stimulation of a pit organ has an effect on the tectum on the opposite side of the brain",
-                "the same part of the brain that deals with stereoscopic vision is activated by infrared stimulation of the pit organs",
-                "the nerves of the right eye and the right pit organ are completely separate from the nerves of the left eye and the left pit organ",
-                "a snake is able to strike its prey with precision"
+                "actual",
+                "important",
+                "official",
+                "effective"
             ],
             2
         ],
         [
-            "Infrared radiation can be perceived directly by a few animals that have specialized sense organs that respond to this type of radiation..",
+            "The author uses the phrase \u201cthe timekeeper of last resort\u201dto refer t",
+            [
+                "water clocks",
+                "the sun",
+                "mechanical clocks",
+                "the church"
+            ],
+            1
+        ],
+        [
+            "The word \u201crudimentary\u201din the passage is closest in meaning t",
+            [
+                "rare",
+                "small",
+                "impractical",
+                "basic"
+            ],
+            3
+        ],
+        [
+            "According to paragraph 4, how did the Catholic Church react to the introduction of mechanical clocks",
+            [
+                "It used mechanical clocks through the period of urban collapse",
+                "It used clocks to better understand natural phenomena, like equinoxes",
+                "It tried to preserve its own method of keeping time, which was different from mechanical-clock time.",
+                "It used mechanical clocks to challenge secular, town authorities."
+            ],
+            2
+        ],
+        [
+            "The word \u201cinstalled\u201din the passage is closest in meaning to",
+            [
+                "required",
+                "expected by the majority of people",
+                "standardized",
+                "put in place"
+            ],
+            3
+        ],
+        [
+            "It can be inferred from paragraph 5 that medieval clockmaker",
+            [
+                "were able to continually make improvements in the accuracy of mechanical clocks",
+                "were sometimes not well respected by other engineers",
+                "sometimes made claims about the accuracy of mechanical clocks that were not true",
+                "rarely shared their expertise with other engineers"
+            ],
             0
         ],
         [
+            "Paragraph 5 answers which of the following questions about mechanical clocks.",
             [
-                "Some snakes seem to be able to locate and strike at warm-blooded prey solely through the use of pit organs.",
-                "The pit organs of snakes seem to be sensitive to a variety of stimuli, including sound, vibration, and light, as well as heat.",
-                "The precision with which snakes are able to locate prey can be accounted for by the intersection of the optic nerves and nerves from the pit organs.",
-                "Snakes with pit organs will strike at dead rats at room temperature only when the rats are dragged across a cage.",
-                "Experiments provide strong evidence that snake pit organs are sensitive to temperature changes caused by infrared radiation.",
-                "Studies of brain activity suggest that the two facial pits provide snakes with stereoscopic perception for the exact location of prey."
+                "How did early mechanical clocks work?",
+                "Why did the design of mechanical clocks affect engineering in general?",
+                "How were mechanical clocks made?",
+                "What influenced the design of the first mechanical clock?"
+            ],
+            1
+        ],
+        [
+            "The word \u201cpioneers\u201din the passage is closest in meaning to",
+            [
+                "leaders",
+                "opponents",
+                "employers",
+                "guardians"
+            ],
+            0
+        ],
+        [
+            "According to paragraph 6, how did the mechanical clock affect labor",
+            [
+                "It encouraged workers to do more time-filling busywork.",
+                "It enabled workers to be more task oriented.",
+                "It pushed workers to work more hours every day.",
+                "It led to a focus on productivity."
+            ],
+            3
+        ],
+        [
+            "The division of time no longer reflected the organization of religious ritual..",
+            2
+        ],
+        [
+            [
+                "The increasing complexity of social and economic activity in medieval Europe led to the need for a more dependable means of keeping time than sun and water clocks provided.",
+                "Because they were unreliable even in sunny climates, sun clocks and water clocks were rarely used in Europe, even before the invention of the mechanical clock.",
+                "Before the mechanical clock, every city wanted a large number of timekeepers because more timekeepers allowed for better organization of collective activities.",
+                "Soon after the invention of mechanical clocks, sun and water clocks became obsolete because mechanical clocks were far more accurate.",
+                "Although society in general was quick to adopt the mechanical clock, the Catholic Church  resisted  it because  it challenged the authority of the church .",
+                "Clockmakers introduced  precision  engineering  and their clocks  gave individuals and groups more control over the organization  of their  activities."
             ],
             [
                 0,

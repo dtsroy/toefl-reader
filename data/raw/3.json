@@ -1,103 +1,143 @@
 {
-    "article": "Solar energy reaching Earth is responsible for differential heating of the atmosphere and thus air circulation as wind. Some of the energy of wind is transferred to the oceans, where it causes waves and is partly responsible for oceanic currents, although Earth\u2019s rotation also plays a role in currents. Gravitational attraction between Earth and the Sun and Moon generates tides and, along with Earth\u2019s rotation, causes most coastal areas to experience a twice-daily rise and fall of sea level. In short, the oceans possess a tremendous reservoir of largely untapped energy.\nIf we could effectively harness the energy possessed by the oceans, an almost limitless, largely nonpolluting energy supply would be ensured.  [\u25a0]Unfortunately, ocean energy is diffuse, meaning that the amount of energy for a given volume of water is small and thus difficult to concentrate and use.  [\u25a0]Several ways of using ocean energy are being considered or are under development, and one is currently in use, although it accounts for only a tiny proportion of all energy production.  [\u25a0]Of the several sources of ocean energy --- temperature differences with depth; currents; waves; and tides --- only the last shows much promise for the near future. [\u25a0]\nOcean water at depth might be as much as 25\u2103 colder than surface water, a difference that allows for ocean thermal energy conversion (OTEC). OTEC exploits this temperature difference to run turbines and generate electricity. The amount of energy available is enormous, but a number of practical problems must be solved before it can be used. For one thing, any potential site must be close to land and also have a sufficiently rapid change with depth to result in the required temperature difference. Furthermore, enormous quantities of warm and cold seawater would have to circulate through an electrical-generating plant, thus requiring that large surface areas be devoted to this purpose.\nThe concept of OTEC is more than a century old, but despite several decades of research, no commercial OTEC plants are operating or even under construction, although small experimental ones have been tested in Hawaii and Japan.\nWind-generated ocean currents, such as the Gulf Stream, which flows along the east coast of North America, also posses energy that might be tapped to generate electricity. Unlike streams that can be dammed to impound a reservoir, any electrical-generating facility exploiting oceanic currents would have to concentrate currents\u2019 diffuse energy and contend with any unpredictable changes in direction. In addition, whereas hydroelectric generating plats on land depend on the rapid movement o water from the higher elevation to the turbines, the energy of ocean currents comes from their flow velocity, which is at most a few kilometers per hour.\nThe most obvious form of energy in the oceans lies in waves. Harnessing wave energy and converting it to electricity is not a new idea, and it has been used on an extremely limited scale. Unfortunately, the energy possessed by a wave is distributed along its crest and is difficult to concentrate. Furthermore, any facility would have to be designed to withstand the effects of storms and saltwater corrosion. The Japanese have developed wave-energy devices to power lighthouses and buoys, and a facility capable of providing power to about 300 homes began operating in Scotland during September 2000.\nPerhaps tidal power is the most promising form of ocean energy. In fact, it has been used for centuries in some coastal areas to run mills, but its use at present for electrical generation is limited. Most coastal areas experience a twice-daily rise the fall of tides, but only a few areas are suitable for exploiting this energy source. One limitation is that the tidal range must be at least five meters, and there must also be a coastal region where water can be stored following high tide.\nSuitable sites for using tidal power are limited not only by tidal range but also by location. Many areas along the U.S. Gulf Coast would certainly benefit from tidal power plants, but a tide range of generally less than one meter precludes the possibility of development. Even areas with an appropriate tidal range such as the Arctic islands of Canada offer little potential because of their great distances from population centers.\n ",
+    "article": "Genes from virtually any organism, from viruses to humans, can now be inserted into plants, creating what are known as transgenic plants. Now used in agriculture, there are approximately 109 million acres of transgenic crops grown worldwide, 68 percent of which are in the United States. The most common transgenic crops are soybeans, corn, cotton, and canola. Most often, these plants either contain a gene making them resistant to the herbicide glyphosate or they contain an insect-resistant gene that produces a protein called Bt toxin.\nOn the positive side, proponents of transgenic crops argue that these crops are environmentally friendly because they allow farmers to use fewer and less noxious chemicals for crop production. For example, a 21 percent reduction in the use of insecticide has been reported on Bt cotton (transgenic cotton that produces Bt toxin). In addition, when glyphosate is used to control weeds, other more persistent herbicides do not need to be applied.\nOn the negative side, opponents of transgenic crops suggest that there are many questions that need to be answered before transgenic crops are grown on a large scale. One question deals with the effects that Bt plants have on nontarget organisms such as beneficial insects, worms, and birds that consume the genetically engineered crop. For example, monarch caterpillars feeding on milkweed plants near Bt cornfields will eat some corn pollen that has fallen on the milkweed leaves. Laboratory studies indicate that caterpillars can die from eating Bt pollen. However, field tests indicate that Bt corn is not likely to harm monarchs. Furthermore, the application of pesticides (the alternative to growing Bt plants) has been demonstrated to cause widespread harm to nontarget insects.\nAnother unanswered question is whether herbicide-resistant genes will move into the populations of weeds. Crop plants are sometimes grown in areas where weedy relatives also live. If the crop plants hybridize and reproduce with weedy relatives, then this herbicide-resistant gene will be perpetuated in the offspring.  [\u25a0] In this way, the resistant gene can make its way into the weed population.  [\u25a0] If this happens, a farmer can no longer use glyphosate, for example, to kill those weeds.  [\u25a0] This scenario is not likely to occur in many instances because there are no weedy relatives growing near the crop plant.  [\u25a0] However, in some cases, it may become a serious problem. For example, canola readily hybridizes with mustard weed species and could transfer its herbicide-resistant genes to those weeds.\nWe know that evolution will occur when transgenic plants grown on a large scale over a period of time. Of special concern is the development of insect populations resistant to the Bt toxin. This pesticide has been applied to plants for decades without the development of insect-resistant populations. However, transgenic Bt plants express the toxin in all tissues throughout growing season. Therefore, all insects carrying genes that make them susceptible to the toxin will die. That leaves only the genetically resistant insects alive to perpetuate the population. When these resistant insects mate, they will produce a high proportion of offspring capable of surviving in the presence of the Bt toxin. Farmers are attempting to slow the development of insect resistance in Bt crops by, for example, planting nontransgenic border rows to provide a refuge for susceptible insects. These insects may allow Bt susceptibility to remain in the population.\nPerhaps the most serious concern about the transgenic crop plants currently in use is that they encourage farmers to move farther away from sustainable agricultural farming practices, meaning ones that allow natural resources to continually regenerate over the long run. Transgenics, at least superficially, simplify farming by reducing the choices made by the manager. Planting a glyphosate-resistant crop commits a farmer to using that herbicide for the reason, probably to the exclusion of all other herbicides and other weed-control practices. Farmers who use Bt transgenics may not feel that they need to follow through with integrated pest-management practices that use beneficial insects and timely applications of pesticides to control insect pests. A more sustainable approach would be to plant nontransgenic corn, monitor the fields throughout the growing season, and then apply a pesticide only if and when needed.\n ",
     "questions": [
         [
-            "According to paragraph 1, both wind energy and the rotation of Earth contribute to the creation of",
+            "According to paragraph 1, which of the following is true of transgenic plants that produce the protein Bt?",
             [
-                "waves",
-                "oceanic current",
-                "a gravitational attraction between earth and the sun and the moon",
-                "tides"
+                "They are resistant to certain herbicides.\u00a0",
+                "They grow best in the United States.\u00a0",
+                "They were treated with the chemicals glyphosate.\u00a0",
+                "They are resistant to destruction by insects."
+            ],
+            3
+        ],
+        [
+            "According to paragraph 2, supporters claim that producing transgenic plants enables farmers to",
+            [
+                "increase crop production by up to 21 percent",
+                "use fewer and less toxic chemicals",
+                "control weeds without the use of glyphosate",
+                "take advantage of more effective herbicides"
             ],
             1
         ],
         [
-            "The word \u201charness\u201d in the passage is closest in meaning to",
+            "The word \"persistent\" in the passage in closest in meaning to",
             [
-                "put into use",
-                "separate out",
-                "come to understand",
-                "identify the location of"
+                "harmful",
+                "long lasting",
+                "expensive",
+                "hard to control"
+            ],
+            1
+        ],
+        [
+            "Which of the following can be inferred about monarch caterpillars from paragraph 3?",
+            [
+                "They often cause damage to corn crops.",
+                "They are the only species that is immune to Bt toxin.",
+                "They are considered beneficial insects.",
+                "Their reactions to Bt pollen have not yet been studied."
+            ],
+            2
+        ],
+        [
+            "What conclusion does the author make in paragraph 3 about the effect of Bt plants on notarget organisms?",
+            [
+                "Bt toxins do not affect nontarget organisms because the toxins only harm pests that eat the leaves, stems, or fruit of the plants.",
+                "Bt plants have been shown in field studies to cause great harm to nontarget organisms.",
+                "Bt plants do not cause as much harm to nontarget species as the use of conventional pesticides.",
+                "Even if Bt toxins do not affect the insects that feed on the plants, they have harmful effects on birds that eat these insects."
+            ],
+            2
+        ],
+        [
+            "The word \"perpetuated\" in the passage is closest in meaning to",
+            [
+                "continued",
+                "reproduced",
+                "observed",
+                "spread"
             ],
             0
         ],
         [
-            "According to paragraph 3, the concept of OTEC is tied to which of the following aspects of the ocean?",
+            "The word \"scenario\" in the passage is closest in meaning to",
             [
-                "Deep waters of the ocean are often calmer than surface waters are.",
-                "Enormous amounts of water are available below the surface of the ocean.",
-                "Temperatures beneath the ocean\u2019s surface water can vary greatly according to the depth of the water.",
-                "Waves and tides contribute to forming land sites that are ideal for running turbines and generating electricity."
+                "effect",
+                "problem",
+                "resistance",
+                "situation"
             ],
-            2
+            3
+        ],
+        [
+            "Why does the author mention \"mustard weed species\" in the discussion of plants that hybridize?",
+            [
+                "To give an example of a weed that may become resistant to glyphosate due to hybridizing with a transgenic plant.",
+                "To argue that creating transgenic plants in the laboratory is not always necessary, as some can be created through hybridizing in the fields.",
+                "To provide evidence that competition from related species of plants can be a serious problem for transgenic plants.",
+                "To support the claim that it is difficult to determine whether or not a crop plant has been planted a safe distance from weedy relatives."
+            ],
+            0
+        ],
+        [
+            "Paragraph 5 makes all of the following claims about Bt resistance in insect populations EXCEPT",
+            [
+                "Regular use of Bt pesticides has not created resistant insect populations, so the use of Bt plants is probably safe as well.",
+                "The evolution of Bt-resistant insect populations will happen eventually if use of transgenic plants becomes widespread.",
+                "Because Bt plants are toxic at all times and in all tissues, they allow only Bt-resistant insects to survive and reproduce.",
+                "Planting nontransgenic plants alongside Bt plants may help Bt-susceptible insects to remain part of the population."
+            ],
+            0
         ],
         [
             "Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.",
             [
-                "Although the construction and operation of OTEC plants are expensive, many commercial plants have been built in Hawaii and Japan.",
-                "Although OTEC is not a new idea, experimental OTEC plants are limited, and commercial OTEC plants do not even exist.",
-                "Because successful experiments using the concept of OTEC have been conducted in Hawaii and Japan for several decades, there are now commercial plants under construction.",
-                "After several decades of research, small experimental OTEC plants are being expanded to operate as large commercial plants."
-            ],
-            1
-        ],
-        [
-            "How does the author develop the discussion in paragraph 5 on the possibility of using wind-generated currents to generate electricity?",
-            [
-                "By providing examples of places where ocean currents have been used successfully",
-                "By describing the process by which wind-generated ocean currents produce energy",
-                "By contrasting ocean currents with other sources of water-generated electricity",
-                "By establishing a historical context for modern techniques of generating electricity"
+                "The transgenic crop plants currently in use are probably far behind the transgenic plants of the future in terms of their sustainability.",
+                "Farmers who use transgenic crop plants are heading toward practices that allow natural resources to continually regenerate over the long run.",
+                "Transgenic crop plants may be used in place of other, more sustainable agricultural practices, and this is perhaps their biggest disadvantage.",
+                "Perhaps the most serious concern about the transgenic crop plants currently in use is the possibility that they may not be sustainable over the long run."
             ],
             2
         ],
         [
-            "By mentioning the Japanese and Scotland in paragraph 6, the author is supporting which of the following points?",
+            "According to paragraph 6, a sustainable approach to weed and pest control includes all of the following EXCEPT",
             [
-                "Some countries have come to depend heavily on power generated by the waves.",
-                "Unlike other countries, Scotland and Japan have had little success using energy from waves because of the effects of weather and corrosion.",
-                "The use of energy from waves is better suited for industrial purposes than it is for use in homes.",
-                "It is difficult to generate electricity by using ocean waves, even though it is being done to a limited extent in some places."
+                "watching the fields closely to determine when weeds or pests are actually a problem",
+                "applying pesticides unless or until pesticides are needed",
+                "using only one type of herbicide throughout the growing season\u00a0",
+                "planting nontransgenic crops"
+            ],
+            2
+        ],
+        [
+            "The word \"superficially\" in the passage is closest in meaning to",
+            [
+                "in the opinion of experts",
+                "at the present moment",
+                "when done properly",
+                "without deeper analysis"
             ],
             3
         ],
         [
-            "Why does the author mention the fact that tides have been \u201cused for centuries in some coastal areas to run mills\u201d?",
-            [
-                "To compare how energy from the ocean was gotten in the past with how it is currently gotten",
-                "To emphasize the difficulty of providing for the energy needs of the coastal areas",
-                "To explain why some coastal areas had more energy available in the past than inland areas typically did",
-                "To support the idea that the tides are probably the most easily converted source of energy from the sea"
-            ],
+            "It is especially rare in the United States, where most transgenic plants are grown, because most of the crops grown in the United States originated elsewhere..",
             3
         ],
         [
-            "The word \u201cprecludes\u201d in the passage is closest in meaning to",
             [
-                "prevents",
-                "presents",
-                "prepares",
-                "preserves"
-            ],
-            0
-        ],
-        [
-            "Nevertheless,The ocean, therefore, presents a potentially appealing source of energy..",
-            0
-        ],
-        [
-            [
-                "Earth\u2019s rotation is the most important factor in the formation of oceanic currents.",
-                "OTEC produces large amounts of energy and is used to run turbines and to produce a great deal of electricity.",
-                "Problems associated with energy storage, concentrating ocean power, and resource location have limited the use of oceanic energy.",
-                "Despite the theoretical advantages of waves, currents, and tides as sources of energy, it remains difficult to take advantage of these resources.",
-                "Experts have tried, mostly unsuccessfully, to solve the practical problems associated with exploiting the temperature differences of the ocean.",
-                "The Arctic islands of Canada have been shown to be the most suitable sites for tidal power and have benefited the most from the use of this source of electricity."
+                "Proponents of transgenic plants argue that they reduce the use of harmful pesticides and allow the use of more environmentally friendly herbicides.",
+                "Use of transgenic plants may lead farmers to neglect more sustainable agricultural practices, and may also cause harm to nontarget organisms.",
+                "Over the long term, transgenic plants are likely to lose their glyphosate resistance through evolution and hybridization with nonresistant relatives.",
+                "Opponents of transgenic plants worry that resistance to glyphosate may spread to weeds and that resistance to Bt toxin may develop among insect pests.",
+                "One argument against Bt plants is that some of the most harmful pests are not Bt susceptible, making application of supplementary pesticides necessary.",
+                "Many of the problems identified with transgenic plants today will likely disappear as scientists design transgenic plants that are more ecologically friendly."
             ],
             [
-                2,
-                3,
-                4
+                0,
+                1,
+                3
             ]
         ]
     ]

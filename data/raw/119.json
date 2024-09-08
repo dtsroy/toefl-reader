@@ -1,0 +1,104 @@
+{
+    "article": "A mineral is a naturally occurring solid formed by inorganic processes.  [\u25a0]Since the internal structure and chemical composition of a mineral are difficult to determine without the aid of sophisticated tests and apparatus, the more easily recognized physical properties are used in identification. [\u25a0] \nMost people think of a crystal as a rare commodity, when in fact most inorganic solid objects are composed of crystals.  [\u25a0]The reason for this misconception is that most crystals do not exhibit their crystal form: the external form of a mineral that reflects the orderly internal arrangement of its atoms.  [\u25a0]Whenever a mineral forms without space restrictions, individual crystals with well-formed crystal faces will develop. Some crystals, such as those of the mineral quartz, have a very distinctive crystal form that can be helpful in identification. However, most of the time, crystal growth is interrupted because of competition for space, resulting in an intergrown mass of crystals, none of which exhibits crystal form.\nAlthough color is an obvious feature of a mineral, it is often an unreliable diagnostic property. Slight impurities in the common mineral quartz, for example, give it a variety of colors, including pink, purple (amethyst), white, and even black. When a mineral, such as quartz, exhibits a variety of colors, it is said to possess exotic coloration. Exotic coloration is usually caused by the inclusion of impurities, such as foreign ions, in the crystalline structure. Other minerals \u2014 for example, sulfur, which is yellow, and malachite, which is bright green \u2014 are said to have inherent coloration because their color is a consequence of their chemical makeup and does not vary significantly.             \nStreak is the color of a mineral in its powdered form and is obtained by rubbing a mineral across a plate of unglazed porcelain. Whereas the color of a mineral often varies from sample to sample, the streak usually does not and is therefore the more reliable property.             \nLuster is the appearance or quality of light reflected from the surface of a mineral. Minerals that have the appearance of metals, regardless of color, are said to have a metallic luster. Minerals with a nonmetallic luster are described by various adjectives, including vitreous (glassy) pearly, silky, resinous, and earthy (dull).             \nOne of the most useful diagnostic properties of a mineral is hardness, the resistance of a mineral to abrasion or scratching. This property is determined by rubbing a mineral of unknown hardness against one of known hardness, or vice versa. A numerical value can be obtained by using Mohs' scale of hardness, which consists of ten minerals arranged in order from talc, the softest, at number one, to diamond, the hardest, at number ten. Any mineral of unknown hardness can be compared with these or with other objects of known hardness. For example, a fingernail has a hardness of 2.5, a copper penny 5, and a piece of glass 5.5. The mineral gypsum, which has a hardness of two, can be easily scratched with your fingernail. On the other hand, the mineral calcite which has a hardness of three, will scratch your fingernail but will not scratch glass. Quartz, the hardest of the common minerals, will scratch a glass plate.             \nThe tendency of a mineral to break along planes of weak bonding is called cleavage. Minerals that possess cleavage are identified by the smooth, flat surfaces produced when the mineral is broken. The simplest type of cleavage is exhibited by the micas. Because the micas have excellent cleavage in one direction, they break to form thin, flat sheets. Some minerals have several cleavage planes, which produce smooth surfaces when broken, while others exhibit poor cleavage, and still others exhibit no cleavage at all. When minerals break evenly in more than one direction, cleavage is described by the number of planes exhibited and the angles at which they meet. Cleavage should not be confused with crystal form. When a mineral exhibits cleavage, it will break into pieces that have the same configuration as the original sample does. By contrast, quartz crystals do not have cleavage, and if broken, would shatter into shapes that do not resemble each other or the original crystals. Minerals that do not exhibit cleavage are said to fracture when broken. Some break into pieces with smooth curved surfaces resembling broken glass. Others break into splinters or fibers, but most fracture irregularly.             \n ",
+    "questions": [
+        [
+            "The word \"apparatus\" in the passage is closest in meaning to",
+            [
+                "equipment",
+                "procedures",
+                "experiments",
+                "laboratories"
+            ],
+            0
+        ],
+        [
+            "According to paragraph 2, which of the following is a mistaken belief that people have about crystals?",
+            [
+                "Crystals always have a well-formed shape.",
+                "Minerals are generally composed of crystals.",
+                "The atoms of a crystal have an orderly arrangement.",
+                "Crystals are always solid and inorganic."
+            ],
+            0
+        ],
+        [
+            "According to paragraph 3, how do different samples of the same mineral come to exhibit a variety of colors?",
+            [
+                "The samples have different crystalline structures.",
+                "The samples contain different varieties of quartz.",
+                "The samples differ in the impurities they contain.",
+                "The samples were formed in different exotic conditions."
+            ],
+            2
+        ],
+        [
+            "Which of the following can be inferred about streak from paragraph 4?",
+            [
+                "When a sample of a mineral is rubbed on unglazed porcelain, the color of the streak is usually the same as the color of the sample.",
+                "In most cases, different samples of a mineral produce streaks that are all of the same color even though the samples themselves are of different colors.",
+                "When a streak is made. the impurities in the mineral are removed and the true color of the mineral is revealed.",
+                "Streak color is reliable for identifying minerals because a given mineral sample always yields the same color of streak each time it is rubbed."
+            ],
+            1
+        ],
+        [
+            "It can be inferred from paragraph 6 that the mineral quartz",
+            [
+                "has no fixed degree of hardness",
+                "might scratch the surface of a diamond",
+                "is harder than calcite",
+                "has atoms that are weakly bonded to each other"
+            ],
+            2
+        ],
+        [
+            "The word \"configuration\" in the passage is closest in meaning to",
+            [
+                "effect",
+                "range",
+                "transformation",
+                "form"
+            ],
+            3
+        ],
+        [
+            "According to paragraph 7, which of the following is true of the cleavage of micas?",
+            [
+                "Micas are the only minerals to break along planes of weak bonding.",
+                "Micas exhibit poor cleavage because they tend to break unevenly.",
+                "Micas break in one direction, forming thin sheets with smooth surfaces.",
+                "Micas break in several directions, forming a number of angles and planes."
+            ],
+            2
+        ],
+        [
+            "Why does the author warn \"Cleavage should not be confused with crystal form\"?",
+            [
+                "Because most people have the mistaken belief that the surfaces of crystals are planes of crystal cleavage",
+                "Because the author s characterization of cleavage in terms of smooth planes and the angles between them could easily be mistaken for a description of crystal form",
+                "To make the point that crystal form and cleavage are the same property only in the simplest cases of cleavage, such as mica.",
+                "To introduce a discussion of minerals the have cleavage but not crystal form"
+            ],
+            1
+        ],
+        [
+            "Each mineral has an orderly arrangement of atoms (crystalline structure) and a definite chemical composition that give it a unique set of physical properties..",
+            0
+        ],
+        [
+            [
+                "Most minerals show a characteristic crystal form that results from the way their atoms are arranged in the crystal structure.",
+                "Luster is a good guide to the identity of glassy and metallic minerals, but not those that have dull or earthy appearance.",
+                "Some minerals characteristically split along one or more smooth planes of cleavage while others typically fracture unevenly.",
+                "For many minerals, the streak formed by a rubbing a mineral sample on unglazed porcelain is a more reliable guide for identification that the color of the sample.",
+                "The relative hardness of a mineral as determined by Mohs scale is very useful for identifying a mineral sample.",
+                "Quartz has a characteristic crystal form, but no cleavage and its color varies widely from sample to sample, all of which make it a typical mineral."
+            ],
+            [
+                2,
+                3,
+                4
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "article": "In the field of chemistry, the understanding of the word \u201cair\u201d has undergone radical change. Air for John Mayow, a seventeenth-century chemist, was essentially a receptacle for airborne particles, and through them manifested a variety of chemical properties.  [\u25a0]But although Mayow and a few other chemists did detect specific chemical properties in what we call gases (including our carbon dioxide), most chemists left them unaccounted for until the beginning of the eighteenth century.  [\u25a0]As chemists became aware that the atmosphere itself (and not just particles within it) had a role to play in combustion, respiration, and other reactions, they did not attribute this to the chemical properties of air but rather to substances that air could absorb and release according to circumstances.  [\u25a0]Thus, air provided a physical environment in which some reactions took place.\n [\u25a0]In the early 1700s, the air was widely seen as just such an environment, and \u201cair\u201d and \u201cthe air\u201d were one and the same thing. Chemists were not in the habit of regarding airs or gases as having different chemical properties. There was simply air. One obvious reason for this was practical. Chemists could examine solids and liquids, exposing them to a variety of tests and seeing how they contributed to assorted reactions. Chemists had, however, no comparable way of examining air; and they came to view chemistry as the sum total of the reactions of solids and liquids, excluding gases. Chemists stressed chemical qualities over physical properties like weight and let physicists deal with air. Chemists generally did not examine air, and they did not try to weigh it. That does not mean that chemists did not weigh substances. They did a lot of weighing, and pharmacists and metallurgists did more. But weighing gases was outside their brief. In the Encyclopedia of Diderot and d'Alembert, published between 1751 and 1775, readers were told that \u201cthe incoercibility of gases will remove them from our researches for a long time to come.\u201d\nBy the time of the Encyclopedia, however, this had begun to change. One of the first and key sources of change was the invention by the Reverend Stephen Hales of a new instrument, the pneumatic trough. This instrument is important for what it made possible in the handling of air. The history of its invention and early use illustrates the difference there may be between the motives for inventing a device and the ways in which that device is used.\nHales was a botanist and chemist as well as a physiologist. He wrote a book in 1727 investigating mechanical subjects like the pressure of sap in plants. But Hales went further, addressing chemical as well as physiological questions. He urged chemists to consider air chemically. He described an instrument for washing the air produced in the course of a chemical reaction. He wanted to get rid of impurities in the air by letting it pass through water. Air passed from a reaction vessel through water in a trough (or tube) and then into a second vessel that was partly filled with water and that could capture air.\nIn devising this apparatus, Hales had coincidentally furnished an instrument for catching and holding air, which could then be subjected to various tests. Used in this way, the apparatus became known as the pneumatic trough. Half a century after its invention, it became a staple of the chemical laboratory. It also became one of the key instruments in the reform of chemistry that we know as the chemical revolution because it was essential to incorporating a whole new state of matter, the gaseous state, into chemistry, alongside the already studied solid and liquid states. Once that step had been taken, it was possible to speculate and then to demonstrate that the gaseous state, like the solid and liquid states, could contain a variety of chemical substances. This was an enormous step, and it did not happen overnight. Hales had shown that air could be contained, washed, and purified, and tested chemically as well as physically. This, however, did not lead him to think that there was more than one kind of air. Air for him remained air, not one of a number of airs. Other chemists would take that essential step.\n ",
+    "questions": [
+        [
+            "According to paragraph 1, John Mayow believed which of the following about air?",
+            [
+                "Air was not involved in chemical reactions such as combustion and respiration.",
+                "The absorption and release of substances in the air depended on the gases in the atmosphere.",
+                "Carbon dioxide was the most important component of air and allowed chemical reactions to take place.",
+                "The air had no chemical properties but contained particles that did."
+            ],
+            3
+        ],
+        [
+            "What is the main point of paragraph 2?",
+            [
+                "Diderot and d'Alembert were the first to recognize that gases were a third state of matter.",
+                "Advances in pharmacy and metallurgy led to a better understanding of gases.",
+                "Early chemists had no tools for investigating the chemical properties of gases.",
+                "By performing various tests on solids and liquids, chemists were able to better understand gases."
+            ],
+            2
+        ],
+        [
+            "The word \u201ccomparable\u201d in the passage is closest in meaning to",
+            [
+                "effective",
+                "equivalent",
+                "reliable",
+                "easy"
+            ],
+            1
+        ],
+        [
+            "The author includes the quotation from the \u201cEncyclopedia of Diderot and d'Alembert\u201d in order to",
+            [
+                "support the argument that pharmacists and metallurgists were better at studying gases than chemists were",
+                "emphasize that chemists did not consider gases to be a subject for their study",
+                "suggest that physicists were no more concerned with gases than chemists were",
+                "argue that Diderot and d'Alembert deliberately limited the amount of research done on gases"
+            ],
+            1
+        ],
+        [
+            "According to paragraph 4, Hales made an important contribution to chemistry by proposing that chemists do which of the following?",
+            [
+                "Consider mechanical subjects as well as chemical ones",
+                "Use cleaner air in their experiments",
+                "Provide detailed descriptions of the devices they used",
+                "Think about air in chemical terms"
+            ],
+            3
+        ],
+        [
+            "The word \u201cstaple\u201d in the passage is closest in meaning to",
+            [
+                "regular feature",
+                "effective tool",
+                "new device",
+                "distinct advantage"
+            ],
+            0
+        ],
+        [
+            "Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.",
+            [
+                "Because of Hales' apparatus, the study of the gaseous state of matter played just as important a role in the chemical revolution as the study of the solid and liquid states did.",
+                "It was essential for chemists to devise new instruments such as Hales\u2018 apparatus in order to study different states of matter alongside one another.",
+                "Hales\u2018 apparatus helped revolutionize the field of chemistry by making it possible for chemists to study a third state of matter the gaseous state.",
+                "Hales\u2018 apparatus was a key development in the chemical revolution because it allowed scientists to transform gaseous matter into different states of matter."
+            ],
+            2
+        ],
+        [
+            "According to paragraph 5, Hales did not understand that air can",
+            [
+                "take various chemical forms",
+                "be washed and purified",
+                "be tested chemically as well as physically",
+                "be contained for experimentation purposes"
+            ],
+            0
+        ],
+        [
+            "Like Robert Boyle, another prominent chemist of the time, he conducted experiments that focused on the role of air and air particles in combustion and respiration..",
+            0
+        ],
+        [
+            [
+                "Early chemists thought of air as an environment in which reactions took place rather than as a substance with its own chemical properties.",
+                "Physicists were more likely to study air than early chemists were because physicists had more advanced methods for calculating weights.",
+                "The invention of the pneumatic trough made it possible to catch, hold, and study air, which in turn led to the possibility of studying gases chemically.",
+                "As they had no good way of examining the role of air in reactions and were not interested in weighing it, early chemists failed to realize that there were different kinds of air.",
+                "Chemists were proficient at purifying the air as well as the solids and liquids they used in their experiments long before the invention of the pneumatic trough.",
+                "Stephen Hales helped to reform the field of chemistry by demonstrating that the air is made up of different gases."
+            ],
+            [
+                0,
+                2,
+                3
+            ]
+        ]
+    ]
+}

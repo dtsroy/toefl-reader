@@ -1,0 +1,104 @@
+{
+    "article": "Classification schemes are used by biologists to place the huge number of organisms on Earth into natural groupings. Ideally, these groupings are made by taxonomists on the basis of shared distinguishing features. Today taxonomists use such features as anatomy, developmental stages, and biochemical similarities to categorize organisms. Early classification schemes placed all organisms into either the plant or animal kingdom. Later, close examination of the unique structure of fungi and the diversity of single-celled organisms made it necessary to propose additional kingdoms that recognized the fundamental differences among plants, animals, fungi, and unicellular prokaryotes (organisms whose cells do not have a distinct membrane- bound nucleus) and eukaryotes (organisms whose cells have a distinct membrane- bound nucleus). The current scheme consisting of five kingdoms\u2014 Monera, Protista, Animalia, Fungi, and Plantae\u2014was devised in response to this need.\nScientists do not know how many species share our world. Each year 7000 to 10,000 new species are named. The total number of named species is currently around 1.4 million. However, many scientists believe that 7 million to 10 million species may exist, and estimates range as high as 30 million. Of all of the species that have been identified, about 5 percent are in the Monera and Protista kingdoms. An additional 22 percent are plants and fungi, and the rest are animals. This distribution has little to do with the actual abundance of these organisms and a lot to do with the size of the organisms, how easy they are to classify, and the number of scientists studying them.\nThe kingdom Protista, defined as comprising all single-celled eukaryotic organisms, is not a natural grouping, and scientists disagree about which organisms it should include. Plants, animals, and fungi all have close protistan relatives, and the separation of single-celled organisms from multicellular organisms is sometimes problematic. It is especially so for the algae, which have both single-celled and multicellular representatives within most smaller taxonomic groupings. Can closely related organisms be placed into separate kingdoms, Protista and Plantae, simply on the basis of multicellularity? If you look at different textbooks, you will see that the algae, photosynthetic organisms with simple reproduction\uff0care sometimes placed entirely into Protista, and sometimes they are split between Protista and Plantae depending on whether they are single celled or multicellular. Some taxonomists split the multicellular algae into two kingdoms, placing the multicellular brown and red algae with the protists and the multicellular green algae into the plant kingdom. These different attempts to classify closely related organisms are good examples of how difficult it is to develop standard criteria for grouping organisms, even at the kingdom level.\nOne approach to this problem, enthusiastically endorsed by Lynn Margulis, a biologist at the University of Massachusetts, is the creation of the kingdom Protoctista. This taxonomic category would include single-celled organisms and their close descendants (for example, the multicellular algae but not the animals, fungi, and plants). Margulis describes the kingdom Protoctista as \u201cthe entire motley and unruly group of nonplant, nonanimal, nonfungal organisms representative of lineages of the earliest descendants of the eukaryotes.\u201d\nIt is conceptually difficult to group one of the largest multicellular organisms in the world, the brown algae called giant kelps, with simple microscopic single-celled organisms.  [\u25a0]Kelps, some of which are up to 60 meters long, possess a tissuelike level of organization that is relatively complex and can transport materials over long distances, as can the tissues of higher plants.  [\u25a0]The cells in kelps and some other algae are specialized and show division of labor.  [\u25a0]However, kelps reproduce like other algae and differently from plants.  [\u25a0]Thomas Cavalier-Smith of the University of British Columbia has proposed that brown algae merit their own kingdom (kingdom Chromista) based on ultrastructural features and molecular comparisons of all algae. So, even among the algae, there are clear differences that some scientists believe are sufficient to justify the status of a separate kingdom.\nAs we learn more about the relationships between organisms and refine the criteria used to classify them, classification schemes will change. As the superficially simple question \u201cIn which kingdom should we place the algae?\u201d illustrates, the taxonomic categories in textbooks are tentative and subject to revision as we continue to discover more about life on Earth.\n ",
+    "questions": [
+        [
+            "Paragraph 1 mentions all of the following as features that taxonomists consider when grouping organisms EXCEPT",
+            [
+                "the size of the organism",
+                "the physical structure of the organism",
+                "the changes organisms undergo at specific stages",
+                "biochemical characteristics that organisms have in common"
+            ],
+            0
+        ],
+        [
+            "The discussion of fungi in paragraph 1 suggests that the study of fungi was important for",
+            [
+                "establishing the earliest classification system",
+                "improving our understanding of single-celled organisms",
+                "recognizing the inadequacy of the early classification systems",
+                "understanding the features that distinguish plants from animals"
+            ],
+            2
+        ],
+        [
+            "The word \u201cdevised\u201d in the passage is closest in meaning to",
+            [
+                "studied",
+                "refined",
+                "tested",
+                "created"
+            ],
+            3
+        ],
+        [
+            "According to paragraph 2, which of the following is the LEAST important reason why some kingdoms contain greater numbers of identified species than do other kingdoms?",
+            [
+                "Some kingdoms contain greater numbers of existing species than do other kingdoms.",
+                "Organisms that are large in size are easier to identify than are smaller organisms.",
+                "Some organisms are easier to classify than are other organisms.",
+                "Some species have been studied by greater numbers of scientists than have other species."
+            ],
+            0
+        ],
+        [
+            "According to paragraph 3, multicellular algae that are closely related to each other are sometimes classified into two separate kingdoms in accordance with their",
+            [
+                "size",
+                "color",
+                "number of cells",
+                "similarity to animal or plant protists"
+            ],
+            1
+        ],
+        [
+            "According to paragraph 5, what is one reason why kelps should not be classified in the same kingdom as plants?",
+            [
+                "Kelps have a mode of reproduction that is similar to that of all other algae but differs from that of plants.",
+                "Kelps have a level of organization that is more complex than that of plant tissue.",
+                "Kelps, unlike plants, do not have the capacity to move materials from one part of their tissue to another.",
+                "Kelps, unlike plants, do not have cells that are specialized to perform particular biological functions."
+            ],
+            0
+        ],
+        [
+            "How do paragraphs 4 and 5 relate to each other?",
+            [
+                "The two paragraphs describe the work of two independent researchers who each arrived at the same conclusion",
+                "Paragraph 4 describes a taxonomic problem, and paragraph 5 outlines a solution to that problem.",
+                "Paragraph 4 proposes criteria for a new taxonomic category, and paragraph 5 provides support for the proposed category.",
+                "Paragraph 4 describes an approach to a problem, and paragraph 5 points out the shortcomings of that approach and outlines an alternative."
+            ],
+            3
+        ],
+        [
+            "The word \u201ctentative\u201d in the passage is closest in meaning to",
+            [
+                "outdated",
+                "uncertain",
+                "misunderstood",
+                "undefined"
+            ],
+            1
+        ],
+        [
+            "This is an additional similarity in biological structure between kelps and higher plants..",
+            2
+        ],
+        [
+            [
+                "Although only a limited proportion of currently existing species have been identified, biologists believe that most of them are plants or fungi.",
+                "The kingdom Protista is not a natural grouping, because in addition to single-celled organisms, it includes some multicellular ones.",
+                "Close strustural analysis shows that since algae differ from plants, all algae should be placed in a separate kingdom, Chromista.",
+                "Close examination of the structures of different organisms showed the inadequacy of early classification systems and led to the current one.",
+                "Taxonomists are not in agreement on how to classify algae, because although algae are closely related to each other, some are single celled and others are multicellular.",
+                "A new proposal is to classify all algae into a single new kingdom, but a second proposal assigns brown algae their own separate kingdom."
+            ],
+            [
+                3,
+                4,
+                5
+            ]
+        ]
+    ]
+}

@@ -1,143 +1,103 @@
 {
-    "article": "Where does the water in a lake come from, and how does water leave it? Water enters a lake from inflowing rivers, from underwater seeps and springs, from overland flow off the surrounding land, and from rain falling directly on the lake surface. Water leaves a lake via outflowing rivers, by soaking into the bed of the lake, and by evaporation. So much is obvious.\nThe questions become more complicated when actual volumes of water are considered: how much water enters and leaves by each route? Discovering the inputs and outputs of rivers is a matter of measuring the discharges of every inflowing and outflowing stream and river. Then exchanges with the atmosphere are calculated by finding the difference between the gains from rain, as measured (rather roughly) by rain gauges, and the losses by evaporation, measured with models that correct for the other sources of water loss. For the majority of lakes, certainly those surrounded by forests, input from overland flow is too small to have a noticeable effect. Changes in lake level not explained by river flows plus exchanges with the atmosphere must be due to the net difference between what seeps into the lake from the groundwater and what leaks into the groundwater. Note the word \"net\": measuring the actual amounts of groundwater seepage into the lake and out of the lake is a much more complicated matter than merely inferring their difference.\nOnce all this information has been gathered, it becomes possible to judge whether a lake\u2019s flow is mainly due to its surface inputs and outputs or to its underground inputs and outputs.  [\u25a0]If the former are greater, the lake is a surface-water-dominated lake; if the latter, it is a seepage-dominated lake.  [\u25a0]Occasionally, common sense tells you which of these two possibilities applies. [\u25a0]For example, a pond in hilly country that maintains a steady water level all through a dry summer in spite of having no streams flowing into it must obviously be seepage dominated. Conversely, a pond with a stream flowing in one end and out the other, which dries up when the stream dries up, is clearly surface water dominated. [\u25a0]\nBy whatever means, a lake is constantly gaining water and losing water: its water does not just sit there, or, anyway, not for long. This raises the matter of a lake\u2019s residence time. The residence time is the average length of time that any particular molecule of water remains in the lake, and it is calculated by dividing the volume of water in the lake by the rate at which water leaves the lake. The residence time is an average; the time spent in the lake by a given molecule (if we could follow its fate) would depend on the route it took: it might flow through as part of the fastest, most direct current, or it might circle in a backwater for an indefinitely long time.\nResidence times vary enormously. They range from a few days for small lakes up to several hundred years for large ones; Lake Tahoe, in California, has a residence time of 700 years. The residence times for the Great Lakes of North America, namely, Lakes Superior, Michigan, Huron, Erie, and Ontario, are, respectively, 190,100,22,2.5, and 6 years. Lake Erie\u2019s is the lowest: although its area is larger than Lake Ontario\u2019 s, its volume is less than one-third as great because it is so shallow-less than 20 meters on average.\nA given lake's residence time is by no means a fixed quantity. It depends on the rate at which water enters the lake, and that depends on the rainfall and the evaporation rate. Climatic change (the result of global warming?) is dramatically affecting the residence times of some lakes in northwestern Ontario. Canada. In the period 1970 to 1986, rainfall in the area decreased from 1,000 millimeters to 650 millimeters per annum, while above-average temperatures speeded up the evapotranspiration rate (the rate at which water is lost to the atmosphere through evaporation and the processes of plant life).\nThe result has been that the residence time of one of the lakes increased from 5 to 18 years during the study period. The slowing down of water renewal leads to a chain of further \u00a0consequences; it causes dissolved chemicals to become \u00a0increasingly concentrated, and this, in turn, has a marked effect on all living things in the lake.\n ",
+    "article": "The wet rice fields of Asia are the most productive of all preindustrial intensive agricultural systems.  [\u25a0]As the term \u201cwet rice\u201d suggests, the method involves flooding the fields for most of the growing season.  [\u25a0]In some areas the water comes entirely from the natural rainfall of the monsoons, but the water level often is controlled by artificial irrigation.  [\u25a0]Most wet rice is, therefore, grown on the floodplains of rivers.  [\u25a0]In parts of Southeast Asia, southern China, and the Himalayan fringes, wet rice is grown on terraced hillsides originally constructed centuries ago.\nPerhaps the most remarkable feature of wet rice cultivation is the capability of a plot to yield a harvest year in the year out, with little or no need to be left uncultivated for extended periods in order to recover its fertility. Indeed, where the seasonal availability of water is adequate, the same plot may yield two and even three harvests in a single year, being under almost continuous cultivation. This capability has been attributed to four factors: the protection from erosion the water gives the soil, the high water table of the rivers\u2019 floodplains that reduces the leaching of nutrients from the soil, the replacement of soil nutrients by the silt carried in the rivers\u2019 flooding, and nitrogen fixation (the conversion of atmospheric nitrogen into forms usable by plants) from the blue-green algae that live in the floodwater. The chief benefit of wet rice--- its ability to grow in the same field year after year --- is then related to the practice of flooding the fields and allowing the water to remain throughout most of the maturation period.\nDespite the advantages of their methods, wet rice farmers must solve problems relating to the management of water, because the proper supply of water at the proper time is some important for a good yield. It is more efficient if storage ponds or tanks, canals, ditches, and other improvements are held and managed communally, because less labor is required to construct and maintain them than if each family owned its own. Water may be stored in small lakes or ponds or captured and held in tanks until it is used to flood the fields. The water level must be controlled fairly precisely white the rice is growing: if it rises too high, the plants will be unable to photosynthesize; and if it falls too low, the benefits of having standing water in the fields will be reduced. Unless the land is naturally flat, the plots, therefore, must be leveled to keep the height of the water constant in different ares of the field. The water level must be controlled by low dikes, usually constructed of earth, which can be easily breached to drain the plot for the harvest.\nManaging the supply of the water that is so critical in growing wet rice requires sophisticated organization, especially with respect to cooperative labor patterns and rights of access to both land and water. Each family may work its lands on its own, but who will construct and maintain public irrigation works? Who will decide when dikes, dams ditches, and tanks need to be repaired, and how will the labor to repair them be coordinated? The water used on the fields of one family is not available to other families. How shall the consumption of water be coordinated? Who will get how much water and when? How, in short, will use rights to water be determined?\nIn one example of organizing the allocation of water to the fields, the Sinhalese of the dry zone of Sri Lanka draw water from a collectively owned rain-fed reservoir constructed of earth. All of the cultivated land of a village is in a single area, below the reservoir. The entire field is laid out into diked plots of equal size. Each plot receives a fixed amount of water from the communal reservoir, though the number of families working a single plot varies: Poor families must share water rights of access to one plot with other families, whereas richer families have access to several plots. Assigning each plot (rather than each family) the same proportion of irrigation water reduces the chance that a given plot will receive insufficient moisture.\n ",
     "questions": [
         [
-            "The phrase \"So much\" in the passage refers to",
+            "Paragraph 1 suggests which of the following about the artificial irrigation of wet rice?",
             [
-                "the negative effects of overland flow, rain, and evaporation on river water levels",
-                "water that a lake loses to outflowing rivers, to the lake bed, and to evaporation",
-                "the importance of rivers to the maintenance of lake water levels",
-                "the information given about ways that water can enter or exit a lake"
-            ],
-            3
-        ],
-        [
-            "The word \"gains\" in the passage is closest in meaning to",
-            [
-                "results",
-                "increases",
-                "resources",
-                "savings"
+                "It is used only in areas where there is little natural rainfall.",
+                "It is most easily accomplished when the rice fields are located on the floodplains or rivers.",
+                "It is considered one of the most important developments of industrial agriculture.",
+                "It was not yet in use when the terraced hillsides were originally constructed."
             ],
             1
         ],
         [
-            "Which of the following can be inferred from paragraph 2 about the movement of water into a lake?",
+            "The phrase \u201c attributed to\u201d in the passage is closest in meaning to",
             [
-                "Heavy rain accounts for most of the water that enters into lakes.",
-                "Rainfall replaces approximately the amount of water lost through evaporation.",
-                "Overland flow into lakes is reduced by the presence of forests.",
-                "Seepage has a smaller effect on water level than any other input."
+                "divided into",
+                "reduced",
+                "explained by",
+                "proven by"
             ],
             2
         ],
         [
-            "Why does the author use the phrase \"Note the word 'net'\" in the passage?",
+            "According to paragraph 2, the flooding of wet rice fields is responsible for each of the following benefits EXCEPT",
             [
-                "To emphasize the impact of seepage on water levels.",
-                "To point out that seepage is calculated differently from river flows and atmospheric exchanges.",
-                "To compare the different methods of calculating seepage.",
-                "To emphasize the difficulty of obtaining specific values for seepage inputs and outputs."
+                "reduced erosion",
+                "harvests that increase yearly in amount",
+                "the regular addition of nutrients to the soil",
+                "nitrogen fixation"
             ],
-            3
+            1
         ],
         [
-            "The word \"Conversely\" in paragraph 3 meaning to",
+            "What is the role of the last sentence of paragraph 2?",
             [
-                "on the other hand",
-                "in the same way",
-                "in other words",
-                "on average"
+                "To apply the ideas of the paragraph to a new case",
+                "To summarize the ideas of the paragraph",
+                "To emphasize a surprising consequence of the ideas of the paragraph",
+                "To explain why the ideas of the paragraph are important"
+            ],
+            1
+        ],
+        [
+            "The word \u201ccaptured\u201d in the passage is closest in meaning to",
+            [
+                "trapped",
+                "transported",
+                "shared",
+                "cleaned"
             ],
             0
         ],
         [
-            "According to paragraph 3, which of the following best describes a seepage-dominated lake?",
+            "According to paragraph 3, uneven land must be leveled before its is suitable for wet rice growing because",
             [
-                "A lake that is fed by streams but still has fluctuating water levels",
-                "A lake with a constant water level that has no streams or rivers as inputs",
-                "A lake with a stream flowing into it and a stream flowing out of it",
-                "A lake that has surface and underground inputs but loses water during dry seasons"
+                "less water is needed to flood every part of a field when the field is level",
+                "the height of water in which rice plants are growing must be kept constant",
+                "the water levels in the fields must be reduce for the harvest",
+                "draining the plots for the harvest is faster when the land is leveled"
             ],
             1
         ],
         [
-            "It can be inferred from paragraph 4 that the length of time a given molecule of water remains in a lake",
+            "According to paragraphs 4, in wet rice areas all of the following are problems that require cooperation to solve EXCEPT",
             [
-                "depends entirely upon the average speed of a lake' s currents",
-                "can be measured by the volume of the lake alone",
-                "can be greater or lesser than the residence time",
-                "is similar to the length of time all other molecules remain in that lake"
+                "deciding how available water should be distributed among its different users.",
+                "organizing labor to repair water storage facilities",
+                "arranging for the construction of irrigation works",
+                "ensuring that enough workers are available to cultivate each plot"
             ],
-            2
+            3
         ],
         [
-            "According to paragraph 5, Lake Erie's residence time is lower than Lake Ontario;s for which of the following reasons?",
+            "Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information",
             [
-                "Lake Erie has a larger area than Lake Ontario.",
-                "Lake Ontario is shallower than Lake Erie.",
-                "Lake Ontario has a greater volume than Lake Erie.",
-                "Lake Erie receives less rainfall than Lake Ontario."
+                "Poor families who must share a plot have access to less water from the communal reservoir than do rich families who have their own plots.",
+                "Each plot receives the same amount of water from the communal reservoir regardless of the number of families who work that plot, which varies depending on the wealth.",
+                "Because each plot receives the same amount of water from the communal reservoir, poor families have access to just as much water for their plots as wealthy families do.",
+                "The amount of water each plot receives from the communal reservoir is fixed according to the wealth of the families who have access to that plot"
             ],
-            2
+            1
         ],
         [
-            "Why does the author discuss the Great Lakes in paragraph 5?",
-            [
-                "To demonstrate the extent to which residence times vary from lake to lake",
-                "To illustrate how residence times are calculated for specific lakes",
-                "To argue that the residence time of a lake increases with area",
-                "To emphasize that Lake Tahoe' s residence time is unusually long"
-            ],
+            "Moreover, wet rice is cultivated more widely and feeds more of this continent\u2019s rural populations than any other crop..",
             0
         ],
         [
-            "The word \"further\" in the passage is closest in meaning to",
             [
-                "expected",
-                "additional",
-                "serious",
-                "unfortunate"
-            ],
-            1
-        ],
-        [
-            "According to paragraph 6, which of the following explains the increase in residence time of some lakes of northwestern Ontario?",
-            [
-                "The amount of water flowing into the lakes has increased.",
-                "The rate of evaporation has decreased more sharply than the amount of rainfall.",
-                "The renewal of the lakes' water has slowed due to changes in climate.",
-                "Plants have required less water from the lakes"
-            ],
-            2
-        ],
-        [
-            "According to paragraph 6, residence time is affected by all of the following EXCEPT",
-            [
-                "amount of rainfall",
-                "rate of evaporation",
-                "temperature of surrounding air",
-                "concentration of chemicals in lake water"
-            ],
-            3
-        ],
-        [
-            "Of course, a lake may be neither surface-water-nor seepage-dominated if, for example, its inputs are predominantly surface and its outputs are predominantly seepage..",
-            3
-        ],
-        [
-            [
-                "By measuring the water quantities at each of a lake's inputs and outputs, it can be determined whether water enters the lake mainly from surface or groundwater sources.",
-                "Changes in lake level and volume are caused principally by the amount of evaporation of water into the atmosphere.",
-                "It is sometimes possible to decide whether a lake is surface water dominated or seepage dominated by simple observation at different seasons.",
-                "The average period of time that molecules of water spend in a lake\u2014the residence time\u2014varies from lake to lake and overtime within a particular lake.",
-                "The residence times of surface-water-dominated lakes are usually longer than those of seepage-dominated lakes.",
-                "The residence time of a lake frequently depends on the kinds of organisms to be found in the lake."
+                "The most remarkable feature of wet rice farming is that crops can be continuously grown under water without the need for nutrients.",
+                "Storing water and controlling the level of the water are essential for successful wet rice farming.",
+                "Although most of the cultivated land of a Sinhalese village is restricted to a particular area below the reservoir, other plots are located outside the dry zone of Sri Lanka.",
+                "The practice of flooding wet rice fields and allowing the water to remain for extended periods allows the fertility level of individual fields to remain stable while the land is cultivated year after year.",
+                "Organization of communal water storage, labor, and distribution requires a sophisticated management system.",
+                "Each Sinhalese family not only work its own lands but also helps to determine who much of its water consumption should be shared with other families."
             ],
             [
-                0,
-                2,
-                3
+                1,
+                3,
+                4
             ]
         ]
     ]

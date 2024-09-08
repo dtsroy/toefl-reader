@@ -1,102 +1,142 @@
 {
-    "article": "Classification schemes are used by biologists to place the huge number of organisms on Earth into natural groupings. Ideally, these groupings are made by taxonomists on the basis of shared distinguishing features. Today taxonomists use such features as anatomy, developmental stages, and biochemical similarities to categorize organisms. Early classification schemes placed all organisms into either the plant or animal kingdom. Later, close examination of the unique structure of fungi and the diversity of single-celled organisms made it necessary to propose additional kingdoms that recognized the fundamental differences among plants, animals, fungi, and unicellular prokaryotes (organisms whose cells do not have a distinct membrane- bound nucleus) and eukaryotes (organisms whose cells have a distinct membrane- bound nucleus). The current scheme consisting of five kingdoms\u2014 Monera, Protista, Animalia, Fungi, and Plantae\u2014was devised in response to this need.\nScientists do not know how many species share our world. Each year 7000 to 10,000 new species are named. The total number of named species is currently around 1.4 million. However, many scientists believe that 7 million to 10 million species may exist, and estimates range as high as 30 million. Of all of the species that have been identified, about 5 percent are in the Monera and Protista kingdoms. An additional 22 percent are plants and fungi, and the rest are animals. This distribution has little to do with the actual abundance of these organisms and a lot to do with the size of the organisms, how easy they are to classify, and the number of scientists studying them.\nThe kingdom Protista, defined as comprising all single-celled eukaryotic organisms, is not a natural grouping, and scientists disagree about which organisms it should include. Plants, animals, and fungi all have close protistan relatives, and the separation of single-celled organisms from multicellular organisms is sometimes problematic. It is especially so for the algae, which have both single-celled and multicellular representatives within most smaller taxonomic groupings. Can closely related organisms be placed into separate kingdoms, Protista and Plantae, simply on the basis of multicellularity? If you look at different textbooks, you will see that the algae, photosynthetic organisms with simple reproduction\uff0care sometimes placed entirely into Protista, and sometimes they are split between Protista and Plantae depending on whether they are single celled or multicellular. Some taxonomists split the multicellular algae into two kingdoms, placing the multicellular brown and red algae with the protists and the multicellular green algae into the plant kingdom. These different attempts to classify closely related organisms are good examples of how difficult it is to develop standard criteria for grouping organisms, even at the kingdom level.\nOne approach to this problem, enthusiastically endorsed by Lynn Margulis, a biologist at the University of Massachusetts, is the creation of the kingdom Protoctista. This taxonomic category would include single-celled organisms and their close descendants (for example, the multicellular algae but not the animals, fungi, and plants). Margulis describes the kingdom Protoctista as \u201cthe entire motley and unruly group of nonplant, nonanimal, nonfungal organisms representative of lineages of the earliest descendants of the eukaryotes.\u201d\nIt is conceptually difficult to group one of the largest multicellular organisms in the world, the brown algae called giant kelps, with simple microscopic single-celled organisms.  [\u25a0]Kelps, some of which are up to 60 meters long, possess a tissuelike level of organization that is relatively complex and can transport materials over long distances, as can the tissues of higher plants.  [\u25a0]The cells in kelps and some other algae are specialized and show division of labor.  [\u25a0]However, kelps reproduce like other algae and differently from plants.  [\u25a0]Thomas Cavalier-Smith of the University of British Columbia has proposed that brown algae merit their own kingdom (kingdom Chromista) based on ultrastructural features and molecular comparisons of all algae. So, even among the algae, there are clear differences that some scientists believe are sufficient to justify the status of a separate kingdom.\nAs we learn more about the relationships between organisms and refine the criteria used to classify them, classification schemes will change. As the superficially simple question \u201cIn which kingdom should we place the algae?\u201d illustrates, the taxonomic categories in textbooks are tentative and subject to revision as we continue to discover more about life on Earth.\n ",
+    "article": "Colonization is one way in which plants can change the ecology of a site. Colonization is a process with two components: invasion and survival. The rate at which a site is colonized by plants depends on both the rate at which individual organisms (seeds, spores, immature or mature individuals) arrive at the site and their success at becoming established and surviving. Success in colonization depends to a great extent on there being a site available for colonization \u2013 a safe site where disturbance by fire or by cutting down of trees has either removed competing species or reduced levels of competition and other negative interactions to a level at which the invading species can become established. For a given rate of invasion, colonization of a moist, fertile site is likely to be much more rapid than that of a dry, infertile site because of poor survival on the latter. A fertile, plowed field is rapidly invaded by a large variety of weeds, whereas a neighboring construction site from which the soil has been compacted or removed to expose a coarse, infertile parent material may remain virtually free of vegetation for many months or even years despite receiving the same input of seeds as the plowed field.\nBoth the rate of invasion and the rate of extinction vary greatly among different plant species. Pioneer species - those that occur only in the earliest stages of colonization - tend to have high rates of invasion because they produce very large numbers of reproductive propagules (seeds, spores, and so on) and because they have an efficient means of dispersal (normally, wind).\nIf colonizers produce short-lived reproductive propagules, they must produce very large numbers unless they have an efficient means of dispersal to suitable new habitats. Many plants depend on wind for dispersal and produce abundant quantities of small, relatively short-lived seeds to compensate for the fact that wind is not always a reliable means If reaching the appropriate type of habitat. Alternative strategies have evolved in some plants, such as those that produce fewer but larger seeds that are dispersed to suitable sites by birds or small mammals or those that produce long-lived seeds. Many forest plants seem to exhibit the latter adaptation, and viable seeds of pioneer species can be found in large numbers on some forest floors. For example, as many as 1,125 viable seeds per square meter were found in a 100-year-old Douglas fir/western hemlock forest in coastal British Columbia. Nearly all the seeds that had germinated from this seed bank were from pioneer species. The rapid colonization of such sites after disturbance is undoubtedly in part a reflection of the large seed band on the forest floor.\nAn adaptation that is well developed in colonizing species is a high degree of variation in germination (the beginning of a seed\u2019s growth). Seeds of a given species exhibit a wide range of germination dates, increasing the probability that at least some of the seeds will germinate during a period of favorable environmental conditions. This is particularly important for species that colonize an environment where there is no existing vegetation to ameliorate climatic extremes and in which there may be great climatic diversity.\nSpecies succession in plant communities, i.e., the temporal sequence of appearance and disappearance of species is dependent on events occurring at different stages in the life history of a species.  [\u25a0]Variation in rates of invasion and growth plays an important role in determining patterns of succession, especially secondary succession.  [\u25a0]The species that are first to colonize a site are those that produce abundant seed that is distributed successfully to new sites. [\u25a0]Such species generally grow rapidly and quickly dominate new sites, excluding other species with lower invasion and growth rates. The first community that occupies a disturbed area therefore may be composed of specie with the highest rate of invasion, whereas the community of the subsequent stage may consist of plants with similar survival rates but lower invasion rates. [\u25a0]\n ",
     "questions": [
         [
-            "Paragraph 1 mentions all of the following as features that taxonomists consider when grouping organisms EXCEPT",
+            "According to paragraph 1, how does disturbance of a site influence its colonization by a plant species?",
             [
-                "the size of the organism",
-                "the physical structure of the organism",
-                "the changes organisms undergo at specific stages",
-                "biochemical characteristics that organisms have in common"
+                "Disturbance reduces or eliminates competition by other species.",
+                "Disturbance increases negative interactions with other organisms on the site.",
+                "Disturbance prevents a plant species from colonizing a new site.",
+                "Disturbance reduces the fertility of a site."
             ],
             0
         ],
         [
-            "The discussion of fungi in paragraph 1 suggests that the study of fungi was important for",
+            "The word \u201cvirtually\u201d in the passage is closest in meaning to",
             [
-                "establishing the earliest classification system",
-                "improving our understanding of single-celled organisms",
-                "recognizing the inadequacy of the early classification systems",
-                "understanding the features that distinguish plants from animals"
+                "almost totally",
+                "unusually",
+                "consistently",
+                "unnaturally"
+            ],
+            0
+        ],
+        [
+            "Why does the author mention a plowed field and a construction site in the passage?",
+            [
+                "To argue that sites that have been affected by human activity tend to be colonized slowly",
+                "To illustrate the kind of sites that may be invaded by weeds",
+                "To contrast sites in terms of their suitability for colonization",
+                "To explain that exposing or compacting the soil results in successful colonization"
             ],
             2
         ],
         [
-            "The word \u201cdevised\u201d in the passage is closest in meaning to",
+            "The word \u201cdespite\u201d in the passage is closest in meaning to",
             [
-                "studied",
-                "refined",
-                "tested",
-                "created"
+                "without",
+                "almost never",
+                "even though",
+                "perhaps"
             ],
-            3
+            2
         ],
         [
-            "According to paragraph 2, which of the following is the LEAST important reason why some kingdoms contain greater numbers of identified species than do other kingdoms?",
+            "Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.",
             [
-                "Some kingdoms contain greater numbers of existing species than do other kingdoms.",
-                "Organisms that are large in size are easier to identify than are smaller organisms.",
-                "Some organisms are easier to classify than are other organisms.",
-                "Some species have been studied by greater numbers of scientists than have other species."
-            ],
-            0
-        ],
-        [
-            "According to paragraph 3, multicellular algae that are closely related to each other are sometimes classified into two separate kingdoms in accordance with their",
-            [
-                "size",
-                "color",
-                "number of cells",
-                "similarity to animal or plant protists"
+                "The seeds of pioneer species are usually carried by the wind to fertile sites, where they reproduce very efficiently.",
+                "Pioneer species are successful invaders because they produce lots of seeds that are dispersed effectively.",
+                "Pioneer species produce their largest numbers of propagules during the earliest stages of their colonization.",
+                "Pioneer species reproduce very quickly and efficiently because they produce very large number of seeds."
             ],
             1
         ],
         [
-            "According to paragraph 5, what is one reason why kelps should not be classified in the same kingdom as plants?",
+            "What can be inferred from paragraph 3 about the reason that large seeds are dispersed by birds or small animals rather than by wind?",
             [
-                "Kelps have a mode of reproduction that is similar to that of all other algae but differs from that of plants.",
-                "Kelps have a level of organization that is more complex than that of plant tissue.",
-                "Kelps, unlike plants, do not have the capacity to move materials from one part of their tissue to another.",
-                "Kelps, unlike plants, do not have cells that are specialized to perform particular biological functions."
-            ],
-            0
-        ],
-        [
-            "How do paragraphs 4 and 5 relate to each other?",
-            [
-                "The two paragraphs describe the work of two independent researchers who each arrived at the same conclusion",
-                "Paragraph 4 describes a taxonomic problem, and paragraph 5 outlines a solution to that problem.",
-                "Paragraph 4 proposes criteria for a new taxonomic category, and paragraph 5 provides support for the proposed category.",
-                "Paragraph 4 describes an approach to a problem, and paragraph 5 points out the shortcomings of that approach and outlines an alternative."
-            ],
-            3
-        ],
-        [
-            "The word \u201ctentative\u201d in the passage is closest in meaning to",
-            [
-                "outdated",
-                "uncertain",
-                "misunderstood",
-                "undefined"
+                "Large seeds are easier for birds and animals to see than are the small seeds dispersed by the wind.",
+                "Large seeds are too heavy for the wind to disperse.",
+                "Large seeds cannot be eaten by birds and animals.",
+                "Large seeds are short-lived and thus require a more efficient means of dispersal than small seeds do."
             ],
             1
         ],
         [
-            "This is an additional similarity in biological structure between kelps and higher plants..",
+            "The phrase \u201cthe latter adaptation\u201d in the passage refers to",
+            [
+                "producing fewer seeds",
+                "producing larger seeds",
+                "dispersal by birds and small mammals",
+                "producing long-lived seeds"
+            ],
+            3
+        ],
+        [
+            "The word \u201cviable\u201d in the passage is closest in meaning to",
+            [
+                "able to survive",
+                "individual",
+                "large",
+                "remaining"
+            ],
+            0
+        ],
+        [
+            "The example of the 100-year-old Douglas fir/western hemlock forest in paragraph to illustrates which of the following ideas?",
+            [
+                "It is uncommon for older seed to germinate.",
+                "Pioneer species tend to prefer forest floors for colonization purposes.",
+                "Long-lived seeds of pioneer species can successfully germinate over long periods of time.",
+                "Coastal British Columbia is particularly suited for pioneer species to develop."
+            ],
+            2
+        ],
+        [
+            "According to paragraph 4, how do plants manage to germinate in areas with great climatic diversity and climatic extremes?",
+            [
+                "By producing seeds only during favorable climatic conditions",
+                "By generating large numbers of seeds",
+                "By colonizing only those areas where other plants have survived",
+                "By producing seeds that have a wide range of germination dates"
+            ],
+            3
+        ],
+        [
+            "The word \u201cabundant\u201d in the passage is closest in meaning to",
+            [
+                "new",
+                "improved",
+                "suitable",
+                "plentiful"
+            ],
+            3
+        ],
+        [
+            "According to paragraph 5, which of the following determines the sequence in which plant species will colonize a site?\r",
+            [
+                "The extent of growth of a species on a prior site before it begins to colonize a secondary site",
+                "The differences in invasion and growth rates across species",
+                "The degree of fertility of a site",
+                "The kind of disturbance that the site has undergone"
+            ],
+            1
+        ],
+        [
+            "They require relatively little protection or nutrients..",
             2
         ],
         [
             [
-                "Although only a limited proportion of currently existing species have been identified, biologists believe that most of them are plants or fungi.",
-                "The kingdom Protista is not a natural grouping, because in addition to single-celled organisms, it includes some multicellular ones.",
-                "Close strustural analysis shows that since algae differ from plants, all algae should be placed in a separate kingdom, Chromista.",
-                "Close examination of the structures of different organisms showed the inadequacy of early classification systems and led to the current one.",
-                "Taxonomists are not in agreement on how to classify algae, because although algae are closely related to each other, some are single celled and others are multicellular.",
-                "A new proposal is to classify all algae into a single new kingdom, but a second proposal assigns brown algae their own separate kingdom."
+                "The species that first colonize a disturbed site are typically ones that produce a large number of efficiently dispersed seeds.",
+                "Plants that cannot successfully compete with other species can invade and colonize a site only if it is fertile and moist, such as a plowed field.",
+                "Pioneer species arrive at a site first but have lower survival rates than do species that arrive later.",
+                "Producing seeds that germinate at various time over long periods allows some plants to colonize sites that only occasionally present the right conditions for growth.",
+                "Large, long-lived seeds tend to result in large seed bank with short germination periods requiring favorable environmental conditions for development.",
+                "The successive appearance and disappearance of species on a site is a result of variation in species\u2019 rates of invasion, growth, and survival. \u00a0\u2003"
             ],
             [
+                0,
                 3,
-                4,
                 5
             ]
         ]
