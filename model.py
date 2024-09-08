@@ -85,7 +85,7 @@ class ReaderNetwork(nn.Module):
         return score
 
 
-def train(q, q):
+def train(q, a):
 
     model = ReaderNetwork(VOCAB_SIZE, 128, 64, 4)
     criterion = nn.CrossEntropyLoss()
