@@ -20,10 +20,10 @@ class ReaderDataset(Dataset):
         e = int(self.amount * ratio) if mode == 'train' else self.amount
 
         tmp = [
-            torch.tensor([[1, 0, 0, 0]], dtype=torch.long),
-            torch.tensor([[0, 1, 0, 0]], dtype=torch.long),
-            torch.tensor([[0, 0, 1, 0]], dtype=torch.long),
-            torch.tensor([[0, 0, 0, 1]], dtype=torch.long),
+            torch.tensor([[1, 0, 0, 0]], dtype=torch.float32),
+            torch.tensor([[0, 1, 0, 0]], dtype=torch.float32),
+            torch.tensor([[0, 0, 1, 0]], dtype=torch.float32),
+            torch.tensor([[0, 0, 0, 1]], dtype=torch.float32),
         ]
         self.ans_tensor = torch.cat([tmp[i] for i in ans_data[s:e]], dim=0).to(device)
 

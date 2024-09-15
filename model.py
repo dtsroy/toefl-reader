@@ -51,10 +51,6 @@ class SelfAttention(nn.Module):
 #         x = self.softmax(x)
 #         return x
 
-A_L = 1024
-Q_L = 256
-
-
 class ReaderNetwork(nn.Module):
     def __init__(self, vocab_size, embedding_dim, hidden_dim, num_choices):
         super(ReaderNetwork, self).__init__()
@@ -64,12 +60,17 @@ class ReaderNetwork(nn.Module):
         self.article_encoder = nn.GRU(embedding_dim, hidden_dim, bidirectional=True, batch_first=True)
         self.question_encoder = nn.GRU(embedding_dim, hidden_dim, bidirectional=True, batch_first=True)
 
+        self.batch_norm1 = nn.BatchNorm1d(2 * hidden_dim)
+
         self.self_attention = SelfAttention(2 * hidden_dim)
 
-        self.fc_merge = nn.Linear(2 * hidden_dim, hidden_dim)
-        self.classifier = nn.Linear(hidden_dim, num_choices)
+        self.batch_norm2 = nn.BatchNorm1d(2 * hidden_dim)
 
-        self.softmax = nn.Softmax(dim=0)
+        self.fc_merge = nn.Linear(2 * hidden_dim, hidden_dim)
+
+        self.batch_norm3 = nn.BatchNorm1d(hidden_dim)
+
+        self.classifier = nn.Linear(hidden_dim, num_choices)
 
     def forward(self, article_ids, question_ids, article_length, question_length):
         article_embeddings = self.embedding(article_ids)
@@ -117,28 +118,35 @@ class ReaderNetwork(nn.Module):
         article_output = article_output * article_mask.unsqueeze(-1).float()
         question_output = question_output * question_mask.unsqueeze(-1).float()
 
+        article_output = self.batch_norm1(article_output)  # Apply Batch Norm
+        question_output = self.batch_norm1(question_output)  # Apply Batch Norm
+
         article_pooled, _ = self.self_attention(article_output)
         question_pooled, _ = self.self_attention(question_output)
 
         combined = torch.cat((article_pooled, question_pooled), dim=1)
-        combined = torch.tanh(self.fc_merge(combined))
+
+        combined = self.batch_norm2(combined)
+
+        combined = self.fc_merge(combined)
+
+        combined = self.batch_norm3(combined)
+
+        combined = torch.tanh(combined)
 
         logits = self.classifier(combined)
-        score = self.softmax(logits)
-        return logits
+        return logits[:, -1, :]
 
 
 def train(q, a):
-
-    model = ReaderNetwork(VOCAB_SIZE, 128, 64, 4)
-    criterion = nn.CrossEntropyLoss()
-    optimizer = optim.Adam(model.parameters(), lr=1e-2)
-
     EPOCHS = 100
     bl = 1e9
     DEVICE = torch.device('cpu')
 
-    # train_loader, test_loader = get_loader('data/processed/tokens.bin', 'data/processed/answers.bin', DEVICE)
+    model = ReaderNetwork(VOCAB_SIZE, 128, 64, 4).to(DEVICE)
+    criterion = nn.CrossEntropyLoss()
+    optimizer = optim.Adam(model.parameters(), lr=1e-2)
+
     train_loader, test_loader = get_loader(q, a, DEVICE)
 
     for i in (t := trange(EPOCHS)):
@@ -154,7 +162,18 @@ def train(q, a):
             if lv < bl:
                 torch.save(model.state_dict(), 'model/b.pth')
                 bl = lv
-            t.set_description(f'Epoch={i}, loss={lv}, best_loss={bl}')
+            t.set_description(f'Epoch={i+1}, loss={lv}, best_loss={bl}')
+        with torch.no_grad():
+            model.eval()
+            k = 0
+            c = 0
+            for d2, y2 in test_loader:
+                y2_p = model(*d2)
+                k += criterion(y2_p, y2).item()
+                c += 1
+            print(f'Epoch={i+1}, test_avg_loss={k/c}')
+        model.train()
 
 
-train('data/processed/tokens.bin', 'data/processed/answers.bin')
+if __name__ == '__main__':
+    train('data/processed/tokens.bin', 'data/processed/answers.bin')
