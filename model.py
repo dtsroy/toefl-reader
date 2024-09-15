@@ -151,7 +151,6 @@ def train(q, a):
             loss.backward()
             optimizer.step()
             lv = loss.item()
-            print(lv)
             if lv < bl:
                 torch.save(model.state_dict(), 'model/b.pth')
                 bl = lv
