@@ -51,6 +51,10 @@ class SelfAttention(nn.Module):
 #         x = self.softmax(x)
 #         return x
 
+A_L = 1024
+Q_L = 256
+
+
 class ReaderNetwork(nn.Module):
     def __init__(self, vocab_size, embedding_dim, hidden_dim, num_choices):
         super(ReaderNetwork, self).__init__()
