@@ -94,6 +94,14 @@ def tokenize(path, out, _tokenizer: Tokenizer, n=1971, seq_l=1500):
 
 
 def raw_to_single_bin(path, out, _tokenizer: Tokenizer, n_json, article_l=1024, question_l=256):
+    """
+    file format:
+    article ids(padding to article_l, using unsigned short)
+    question ids(padding to question_l, using unsigned short)
+    actual article length(unsigned short)
+    actual question length(unsigned short)
+    USING BIG END
+    """
     output = open(out, 'wb+')
     c = 0
     PAD_ID = _tokenizer.token_to_id('[PAD]')
@@ -106,6 +114,7 @@ def raw_to_single_bin(path, out, _tokenizer: Tokenizer, n_json, article_l=1024, 
             padding = article_l - len(article) - 2
             article.insert(0, CLS_ID)
             article.append(SEP_ID)
+            actual_a = len(article)
             for p in range(padding):
                 article.append(PAD_ID)
             for q in data['questions'][:-2]:
@@ -113,17 +122,20 @@ def raw_to_single_bin(path, out, _tokenizer: Tokenizer, n_json, article_l=1024, 
                 padding = question_l - len(question) - 2
                 question.insert(0, CLS_ID)
                 question.append(SEP_ID)
+                actual_q = len(question)
                 for p in range(padding):
                     question.append(PAD_ID)
                 output.write(
                     struct.pack(f'>{article_l}H', *article) +
-                    struct.pack(f'>{question_l}H', *question)
+                    struct.pack(f'>{question_l}H', *question) +
+                    struct.pack('>2H', actual_a, actual_q)
                 )
-
                 c += 1
+
     output.write(struct.pack('>I', c))
     print(f'{c} processed.')
 
 
 tk = Tokenizer.from_file('tokenizer/BPE.json')
 raw_to_single_bin('data/raw', 'data/processed/tokens.bin', tk, 180)
+# print(tk.token_to_id('[PAD]'))

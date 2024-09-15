@@ -1,10 +1,8 @@
-import os.path
+import struct
 
 import torch
 from torch.utils.data import DataLoader, Dataset
-import struct
 from tqdm import trange
-
 
 VOCAB_SIZE = 20820
 ARTICLE_L = 1024
@@ -32,21 +30,33 @@ class ReaderDataset(Dataset):
         self.data = []
         print('loading data...')
 
+        a = ARTICLE_L * 2
+        q = QUESTION_L * 2
+
         with open(qts, 'rb') as f:
             bin_tks = f.read()
-            for i in trange(s, e):
+            for i in range(s, e):
                 self.data.append(
                     (
                         torch.tensor(
                             list(struct.unpack(f'>{ARTICLE_L}H',
-                                               bin_tks[(start := 2 * i * (ARTICLE_L + QUESTION_L)):start + ARTICLE_L * 2])),
+                                               bin_tks[(start := i * (a + q + 4)):start + a])),
                             dtype=torch.int64
                         ).to(device),
                         torch.tensor(
                             list(struct.unpack(f'>{QUESTION_L}H',
-                                               bin_tks[start + ARTICLE_L * 2:start + ARTICLE_L * 2 + QUESTION_L * 2])),
+                                               bin_tks[start + a:start + a + q])),
                             dtype=torch.int64
-                        ).to(device)
+                        ).to(device),
+                        torch.tensor(
+                            (l := list(struct.unpack('>2H',
+                                                     bin_tks[start + a + q:start + a + q + 4])))[0],
+                            dtype=torch.int64
+                        ).unsqueeze(-1).to(device),
+                        torch.tensor(
+                            l[1],
+                            dtype=torch.int64
+                        ).unsqueeze(-1).to(device)
                     )
                 )
         print('Successfully loaded data')
@@ -68,4 +78,4 @@ def get_dataset(qts, ans, device):
 
 def get_loader(qts, ans, device):
     s1, s2 = get_dataset(qts, ans, device)
-    return DataLoader(s1, batch_size=100, shuffle=True), DataLoader(s2, batch_size=20, shuffle=False)
+    return DataLoader(s1, batch_size=50, shuffle=True), DataLoader(s2, batch_size=20, shuffle=False)

@@ -65,14 +65,53 @@ class ReaderNetwork(nn.Module):
         self.fc_merge = nn.Linear(2 * hidden_dim, hidden_dim)
         self.classifier = nn.Linear(hidden_dim, num_choices)
 
-        self.softmax = nn.Softmax(dim=2)
+        self.softmax = nn.Softmax(dim=0)
 
-    def forward(self, article_ids, question_ids):
+    def forward(self, article_ids, question_ids, article_length, question_length):
         article_embeddings = self.embedding(article_ids)
         question_embeddings = self.embedding(question_ids)
 
-        article_output, _ = self.article_encoder(article_embeddings)
-        question_output, _ = self.question_encoder(question_embeddings)
+        # Create masks
+        article_mask = torch.gt(article_ids, 0)
+        question_mask = torch.gt(question_ids, 0)
+
+        # Pack sequences
+        packed_article = nn.utils.rnn.pack_padded_sequence(
+            article_embeddings,
+            article_length.flatten(),
+            batch_first=True,
+            enforce_sorted=False
+        )
+
+        packed_question = nn.utils.rnn.pack_padded_sequence(
+            question_embeddings,
+            question_length.flatten(),
+            batch_first=True,
+            enforce_sorted=False
+        )
+
+        article_output, _ = self.article_encoder(packed_article)
+        question_output, _ = self.question_encoder(packed_question)
+
+        # Unpack sequences
+        article_output, _ = nn.utils.rnn.pad_packed_sequence(article_output, batch_first=True)
+        question_output, _ = nn.utils.rnn.pad_packed_sequence(question_output, batch_first=True)
+
+        article_output = nn.functional.pad(
+            article_output,
+            (0, 0, 0, article_embeddings.size()[1] - article_output.size()[1]),
+            value=0
+        )
+
+        question_output = nn.functional.pad(
+            question_output,
+            (0, 0, 0, question_embeddings.size()[1] - question_output.size()[1]),
+            value=0
+        )
+
+        # Apply masks
+        article_output = article_output * article_mask.unsqueeze(-1).float()
+        question_output = question_output * question_mask.unsqueeze(-1).float()
 
         article_pooled, _ = self.self_attention(article_output)
         question_pooled, _ = self.self_attention(question_output)
@@ -82,7 +121,7 @@ class ReaderNetwork(nn.Module):
 
         logits = self.classifier(combined)
         score = self.softmax(logits)
-        return score
+        return logits
 
 
 def train(q, a):
@@ -100,6 +139,7 @@ def train(q, a):
 
     for i in (t := trange(EPOCHS)):
         for d, y in train_loader:
+            # print(d[2])
             y_p = model(*d)
             loss = criterion(y_p, y)
 
@@ -107,8 +147,11 @@ def train(q, a):
             loss.backward()
             optimizer.step()
             lv = loss.item()
-
+            print(lv)
             if lv < bl:
                 torch.save(model.state_dict(), 'model/b.pth')
                 bl = lv
             t.set_description(f'Epoch={i}, loss={lv}, best_loss={bl}')
+
+
+train('data/processed/tokens.bin', 'data/processed/answers.bin')
