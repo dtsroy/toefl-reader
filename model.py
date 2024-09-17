@@ -60,15 +60,18 @@ class ReaderNetwork(nn.Module):
         self.article_encoder = nn.GRU(embedding_dim, hidden_dim, bidirectional=True, batch_first=True)
         self.question_encoder = nn.GRU(embedding_dim, hidden_dim, bidirectional=True, batch_first=True)
 
-        self.batch_norm1 = nn.BatchNorm1d(2 * hidden_dim)
+        # self.batch_norm1 = nn.BatchNorm1d(2 * hidden_dim)
+        self.dropout1 = nn.Dropout(p=0.4)
 
         self.self_attention = SelfAttention(2 * hidden_dim)
 
-        self.batch_norm2 = nn.BatchNorm1d(2 * hidden_dim)
+        # self.batch_norm2 = nn.BatchNorm1d(2 * hidden_dim)
+        # self.dropout2 = nn.Dropout(p=0.4)
 
         self.fc_merge = nn.Linear(2 * hidden_dim, hidden_dim)
 
-        self.batch_norm3 = nn.BatchNorm1d(hidden_dim)
+        # self.batch_norm3 = nn.BatchNorm1d(hidden_dim)
+        self.dropout3 = nn.Dropout(p=0.4)
 
         self.classifier = nn.Linear(hidden_dim, num_choices)
 
@@ -83,14 +86,14 @@ class ReaderNetwork(nn.Module):
         # Pack sequences
         packed_article = nn.utils.rnn.pack_padded_sequence(
             article_embeddings,
-            article_length.flatten(),
+            article_length.flatten().cpu(),
             batch_first=True,
             enforce_sorted=False
         )
 
         packed_question = nn.utils.rnn.pack_padded_sequence(
             question_embeddings,
-            question_length.flatten(),
+            question_length.flatten().cpu(),
             batch_first=True,
             enforce_sorted=False
         )
@@ -118,19 +121,23 @@ class ReaderNetwork(nn.Module):
         article_output = article_output * article_mask.unsqueeze(-1).float()
         question_output = question_output * question_mask.unsqueeze(-1).float()
 
-        article_output = self.batch_norm1(article_output)  # Apply Batch Norm
-        question_output = self.batch_norm1(question_output)  # Apply Batch Norm
+        # article_output = self.batch_norm1(article_output)  # Apply Batch Norm
+        # question_output = self.batch_norm1(question_output)  # Apply Batch Norm
+        article_output = self.dropout1(article_output)
+        question_output = self.dropout1(question_output)
 
         article_pooled, _ = self.self_attention(article_output)
         question_pooled, _ = self.self_attention(question_output)
 
         combined = torch.cat((article_pooled, question_pooled), dim=1)
 
-        combined = self.batch_norm2(combined)
+        # combined = self.batch_norm2(combined)
+        # combined = self.dropout2(combined)
 
         combined = self.fc_merge(combined)
 
-        combined = self.batch_norm3(combined)
+        # combined = self.batch_norm3(combined)
+        combined = self.dropout3(combined)
 
         combined = torch.tanh(combined)
 
